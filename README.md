@@ -1,3 +1,5 @@
+# 四平台免费内容爬取工具
+
 自动爬取芒果TV、爱奇艺、腾讯视频、优酷四大平台的免费电影和电视剧数据，进行男女频分类，生成 Excel 报告。
 
 基于 [Qoder](https://qoder.com) Agent Skill 驱动，一条指令即可完成全流程。
@@ -33,7 +35,7 @@ Qoder Agent 会自动读取 `.qoder/skills/crawl-free-content/SKILL.md`，按照
 
 ```
 Phase 1  三平台并行爬取（芒果TV / 爱奇艺 / 腾讯视频）
-Phase 1.5 腾讯视频 VIP 二次过滤
+Phase 1.5 腾讯视频 VIP 过滤（mark_label 检测）
 Phase 2  优酷列表爬取（需 Browser MCP）
 Phase 3  优酷详情补充
 Phase 4  四平台汇总 + 性别分类 + Excel 生成
