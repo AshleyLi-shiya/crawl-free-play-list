@@ -35,7 +35,7 @@ Qoder Agent 会自动读取 `.qoder/skills/crawl-free-content/SKILL.md`，按照
 
 ```
 Phase 1  三平台并行爬取（芒果TV / 爱奇艺 / 腾讯视频）
-Phase 1.5 腾讯视频 VIP 二次过滤
+Phase 1.5 腾讯视频 VIP 过滤（mark_label 检测）
 Phase 2  优酷列表爬取（需 Browser MCP）
 Phase 3  优酷详情补充
 Phase 4  四平台汇总 + 性别分类 + Excel 生成
@@ -64,6 +64,7 @@ crawl-free-content/
 ## 注意事项
 
 - 所有脚本通过 `__file__` 自动定位项目根目录，无需手动配置路径
-- 腾讯视频 API 的 `charge=1` 参数不能完全过滤付费内容，`filter_tencent_vip.py` 会进行二次校验
+- 腾讯视频 API 的 `ipay=免费` 过滤参数完全无效（返回全量数据），`filter_tencent_vip.py` 通过双通道检测移除 VIP 内容：(1) `all_ids` 中每集的 F 值（F:7=VIP, F:0/F:2=免费）；(2) `latest_mark_label` 文本含 "VIP"/"会员"
+- 优酷免费列表中混有用户上传的"合辑"内容（非平台正版版权），`fetch_youku_details.py` 会自动过滤 `mark=="合辑"` 及标题含 UGC 特征词的条目
 - 优酷爬取依赖浏览器环境（mtop 签名），需要 Browser MCP 支持
 - 单平台爬取失败不影响其他平台，Excel 生成时自动跳过缺失数据

@@ -161,6 +161,18 @@ def main():
         print(f"\nFetching TV drama details...", flush=True)
         process_batch(tv_todo, "电视剧", all_details)
 
+    # Filter out UGC compilations (mark=合辑) and UGC title patterns
+    ugc_title_patterns = ['精华版', '（全集）', '(全集)', '精编版', '精剪版', '切片', '混剪']
+    def is_ugc(item):
+        if item.get('mark') == '合辑':
+            return True
+        title = item.get('title', '')
+        return any(pat in title for pat in ugc_title_patterns)
+
+    movies = [m for m in movies if not is_ugc(m)]
+    tv_dramas = [t for t in tv_dramas if not is_ugc(t)]
+    print(f"After UGC filter: {len(movies)} movies, {len(tv_dramas)} TV dramas", flush=True)
+
     # Generate final combined data
     enriched = {'movies': [], 'tvDramas': []}
 

@@ -1,0 +1,4487 @@
+{
+  "platform": "TencentVideo",
+  "tvDramas": [
+    {
+      "title": "逐玉",
+      "year": "2026",
+      "cid": "mzc00200djsz2lc",
+      "actors": "张凌赫 田曦薇 任豪 孔雪儿 邓凯 李卿 喻钟黎 刘琳 严屹宽 岳旸 杜淳 叶祖新 林沐然",
+      "area": "内地",
+      "genre": "爱情",
+      "episodes": "更新至26集",
+      "desc": "先婚后爱！烽火炼真情"
+    },
+    {
+      "title": "她的盛焰",
+      "year": "2026",
+      "cid": "mzc002004svhzur",
+      "actors": "马思纯 宁理 袁姗姗 翟子路 章涛 范湉湉 张维伊 柳小海 焦钰",
+      "area": "内地",
+      "genre": "都市",
+      "episodes": "更新至13集",
+      "desc": "马思纯宁理袁姗姗三角对峙先疯后赢"
+    },
+    {
+      "title": "西游记",
+      "year": "1986",
+      "cid": "aav44xv50k8sfjb",
+      "actors": "六小龄童 迟重瑞 马德华 汪粤 闫怀礼 徐少华",
+      "area": "内地",
+      "genre": "奇幻",
+      "episodes": "全25集",
+      "desc": "六小龄童演活美猴王"
+    },
+    {
+      "title": "英雄烈",
+      "year": "2018",
+      "cid": "mzc00200gncmc3p",
+      "actors": "于晓光 马雅舒 斯琴高娃 高明 冯雷 赵锦焘 赵龙豪 唐菀",
+      "area": "内地",
+      "genre": "战争",
+      "episodes": "全46集",
+      "desc": ""
+    },
+    {
+      "title": "小楼又东风",
+      "year": "2018",
+      "cid": "7fy62c3bq4kdi07",
+      "actors": "宋轶 严屹宽 朱梓骁",
+      "area": "内地",
+      "genre": "谍战",
+      "episodes": "全46集",
+      "desc": "严屹宽宋轶演绎谍战风云"
+    },
+    {
+      "title": "三国演义",
+      "year": "1994",
+      "cid": "jvhuaf93hh858fs",
+      "actors": "唐国强 孙彦军 鲍国安 陆树铭 李靖飞",
+      "area": "内地",
+      "genre": "古装",
+      "episodes": "全84集",
+      "desc": "历史巨作三国演义"
+    },
+    {
+      "title": "遍地狼烟",
+      "year": "2011",
+      "cid": "qycehjbwxnvb8p8",
+      "actors": "杨烁 王子睿 周扬 李桓 竹灵 李竹",
+      "area": "内地",
+      "genre": "战争",
+      "episodes": "全28集",
+      "desc": "少年枪王踏上抗战之路"
+    },
+    {
+      "title": "人生若如初相见",
+      "year": "2018",
+      "cid": "b9ft3bzwn67twwp",
+      "actors": "韩东君 孙怡 徐正溪 郑罗茜 邹廷威 马敬涵 吕佳容 方中信",
+      "area": "内地",
+      "genre": "爱情",
+      "episodes": "全50集",
+      "desc": "韩东君孙怡民国错位虐恋"
+    },
+    {
+      "title": "海狼行动",
+      "year": "2008",
+      "cid": "3vavhbgi4s6cxnj",
+      "actors": "于震 施京明 李欣凌 叶静 刘冠军",
+      "area": "内地",
+      "genre": "谍战",
+      "episodes": "全34集",
+      "desc": "爱国青年与间谍斗智斗勇"
+    },
+    {
+      "title": "伏击",
+      "year": "2015",
+      "cid": "sj4kf453gdk4n86",
+      "actors": "徐佳 刘庭羽 李泽锋 唐熙 钱璇 田重",
+      "area": "内地",
+      "genre": "战争",
+      "episodes": "全45集",
+      "desc": "徐佳钱璇浪漫上演“一吻情定”"
+    },
+    {
+      "title": "水浒传",
+      "year": "1998",
+      "cid": "2zxx9m6asi72gyz",
+      "actors": "李雪健 宁晓志 周野芒 臧金生",
+      "area": "内地",
+      "genre": "历史",
+      "episodes": "全43集",
+      "desc": "央视98经典版水浒传"
+    },
+    {
+      "title": "大宋宫词",
+      "year": "2021",
+      "cid": "ylgl3m6wo0sypou",
+      "actors": "刘涛 周渝民 归亚蕾 赵文瑄",
+      "area": "内地",
+      "genre": "古装",
+      "episodes": "全61集",
+      "desc": "刘涛周渝民守护大宋江山"
+    },
+    {
+      "title": "大玉儿传奇",
+      "year": "2015",
+      "cid": "24f0el4lnz2mv94",
+      "actors": "景甜 耿乐 聂远 蒋林静",
+      "area": "内地",
+      "genre": "古装",
+      "episodes": "全68集",
+      "desc": ""
+    },
+    {
+      "title": "西游记(续集)",
+      "year": "2000",
+      "cid": "znda81ms78okdwd",
+      "actors": "六小龄童 徐少华 迟重瑞 崔景富 刘大刚",
+      "area": "内地",
+      "genre": "奇幻",
+      "episodes": "全16集",
+      "desc": "八十一难取真经"
+    },
+    {
+      "title": "我爱男保姆",
+      "year": "2015",
+      "cid": "xqmyd00jg2bn7xh",
+      "actors": "雷佳音 袁姗姗 车晓 曹曦文 刘楚恬",
+      "area": "内地",
+      "genre": "都市",
+      "episodes": "全35集",
+      "desc": "全能煮夫逆袭之路"
+    },
+    {
+      "title": "姐妹情缘",
+      "year": "2012",
+      "cid": "39p3dnzncfjhl9e",
+      "actors": "靳东 章呈赫 陶飞霏 林伊婷 王鹏凯 张岩 李竹",
+      "area": "内地",
+      "genre": "战争",
+      "episodes": "全40集",
+      "desc": "命运交织的姐妹情"
+    },
+    {
+      "title": "想去你的2026",
+      "year": "2026",
+      "cid": "mzc00200vu6zv1z",
+      "actors": "古子成 解鑫豪 许栋铭 吴芊盈",
+      "area": "内地",
+      "genre": "青春",
+      "episodes": "全21集",
+      "desc": "和平精英新春短片"
+    },
+    {
+      "title": "浪花淘尽",
+      "year": "2016",
+      "cid": "azbjieykekdrr1i",
+      "actors": "海顿 颜丹晨 陈洁 杨峰",
+      "area": "内地",
+      "genre": "谍战",
+      "episodes": "全42集",
+      "desc": "进步学生报效祖国的故事"
+    },
+    {
+      "title": "红色使命",
+      "year": "2019",
+      "cid": "mzc00200v8ev1fz",
+      "actors": "丁柳元 奚望 何奉天 尹铸胜 原雨 赵龙豪",
+      "area": "内地",
+      "genre": "战争",
+      "episodes": "全42集",
+      "desc": ""
+    },
+    {
+      "title": "红楼梦",
+      "year": "1987",
+      "cid": "1341d0wlua84rdo",
+      "actors": "欧阳奋强 陈晓旭 邓婕 张莉 李婷",
+      "area": "内地",
+      "genre": "古装",
+      "episodes": "全36集",
+      "desc": "87经典版宝黛钗"
+    },
+    {
+      "title": "孤雁",
+      "year": "2015",
+      "cid": "h139r3z8k3k16l8",
+      "actors": "程愫 朱泳腾 程煜",
+      "area": "内地",
+      "genre": "战争",
+      "episodes": "全45集",
+      "desc": "女版“伪装者”与胡歌比帅"
+    },
+    {
+      "title": "蓝盔特战队",
+      "year": "2020",
+      "cid": "mzc00200yefv9l4",
+      "actors": "王彦霖 李溪芮",
+      "area": "内地",
+      "genre": "军旅",
+      "episodes": "全39集",
+      "desc": ""
+    },
+    {
+      "title": "寒秋",
+      "year": "2005",
+      "cid": "0vjeju8irrzrdum",
+      "actors": "王子文 赵毅 丁勇岱",
+      "area": "内地",
+      "genre": "爱情",
+      "episodes": "全24集",
+      "desc": "三家族的明争暗斗"
+    },
+    {
+      "title": "湄公河大案",
+      "year": "2014",
+      "cid": "69z3v8l0469esxn",
+      "actors": "陈宝国 王千源 杜志国 于越 张兆辉",
+      "area": "内地",
+      "genre": "警匪",
+      "episodes": "全34集",
+      "desc": "各国警方联手共破大案"
+    },
+    {
+      "title": "决杀",
+      "year": "2015",
+      "cid": "8bndta0r568xmuz",
+      "actors": "翟天临 王志飞 程媛媛 刘欢",
+      "area": "内地",
+      "genre": "战争",
+      "episodes": "全40集",
+      "desc": "英雄儿女热血抗战"
+    },
+    {
+      "title": "最后一战",
+      "year": "2015",
+      "cid": "mzc00200bgk5tmg",
+      "actors": "高云翔 秋瓷炫 崔林 章贺 彭婧 黄锶骐",
+      "area": "内地",
+      "genre": "战争",
+      "episodes": "全40集",
+      "desc": ""
+    },
+    {
+      "title": "神医喜来乐",
+      "year": "2003",
+      "cid": "egvmtr9q9x9o04o",
+      "actors": "沈傲君 吴军 李保田 杜雨露 陈继铭",
+      "area": "内地",
+      "genre": "喜剧",
+      "episodes": "全35集",
+      "desc": "一个郎中的故事"
+    },
+    {
+      "title": "奔腾的心",
+      "year": "2026",
+      "cid": "mzc002001whs10e",
+      "actors": "盖玥希 央金卓嘎 徐世昕 洛桑念扎 才让加 旦增贡吉 李启歌",
+      "area": "内地",
+      "genre": "剧情",
+      "episodes": "全16集",
+      "desc": "都市青年的藏地奇遇"
+    },
+    {
+      "title": "我哥我嫂",
+      "year": "2019",
+      "cid": "mzc00200q8gufit",
+      "actors": "王雅捷 王挺 周扬 吴其江 王丽云",
+      "area": "内地",
+      "genre": "家庭",
+      "episodes": "全50集",
+      "desc": "二嫂王雅捷独挑养家重担"
+    },
+    {
+      "title": "风雨雕花楼",
+      "year": "2010",
+      "cid": "d4m6mlwpqe8kf0b",
+      "actors": "杜志国 温峥嵘 陈锐",
+      "area": "内地",
+      "genre": "战争",
+      "episodes": "全40集",
+      "desc": "清末人民痛苦不堪"
+    },
+    {
+      "title": "孤战",
+      "year": "2016",
+      "cid": "ob86l4ng6j9mu5t",
+      "actors": "苗圃 王雅伦 冯恩鹤",
+      "area": "内地",
+      "genre": "战争",
+      "episodes": "全48集",
+      "desc": "女汉子苗圃攻气十足"
+    },
+    {
+      "title": "三妹和她的亲人们",
+      "year": "2018",
+      "cid": "mzc00200d8wv1fh",
+      "actors": "海陆 张铎 王丽云",
+      "area": "内地",
+      "genre": "剧情",
+      "episodes": "全48集",
+      "desc": ""
+    },
+    {
+      "title": "修仙记之何仙姑传",
+      "year": "2016",
+      "cid": "mzc00200dhzmgxw",
+      "actors": "苗圃 王铭铎 刘宇桥 王翌舟 贡米 张鹰",
+      "area": "内地",
+      "genre": "古装",
+      "episodes": "全70集",
+      "desc": ""
+    },
+    {
+      "title": "兄弟营",
+      "year": "2018",
+      "cid": "mzc002009sd69j2",
+      "actors": "海顿 翁虹 赵恒煊",
+      "area": "内地",
+      "genre": "战争",
+      "episodes": "全45集",
+      "desc": "海顿翁虹续写抗战传奇"
+    },
+    {
+      "title": "凡人的品格",
+      "year": "2017",
+      "cid": "hw1ry4ch4gk60d9",
+      "actors": "林永健 蒋欣 童蕾 梁振伦 张宇菲 阿楠 白志迪",
+      "area": "内地",
+      "genre": "都市",
+      "episodes": "全45集",
+      "desc": "林永健蒋欣创业逆袭人生"
+    },
+    {
+      "title": "惊蛰",
+      "year": "2017",
+      "cid": "l19x9qoetxc5rh8",
+      "actors": "杨烁 林雪飘 迟嘉 刘陆 陈创",
+      "area": "内地",
+      "genre": "谍战",
+      "episodes": "全39集",
+      "desc": "杨烁上演双面谍战大戏"
+    },
+    {
+      "title": "战火四千金",
+      "year": "2011",
+      "cid": "hxomfii1tssbqey",
+      "actors": "曾泳醍 袁志博 贺丹丹 李若嘉 刘鉴 朱刚日尧 郑玉 时光 李铁军",
+      "area": "内地",
+      "genre": "谍战",
+      "episodes": "全31集",
+      "desc": "乱世四姐妹抗日救国"
+    },
+    {
+      "title": "信者无敌",
+      "year": "2016",
+      "cid": "tynysr14mgoke88",
+      "actors": "陈宝国 于明加 杨雪 米学东",
+      "area": "内地",
+      "genre": "战争",
+      "episodes": "全36集",
+      "desc": "陈宝国演绎极品旅长"
+    },
+    {
+      "title": "宜昌保卫战",
+      "year": "2016",
+      "cid": "dm7tz5hxx0dv36y",
+      "actors": "徐佳 童蕾 侯勇 陈小春 吕良伟 施京明",
+      "area": "内地",
+      "genre": "战争",
+      "episodes": "全35集",
+      "desc": "陈小春演绎军统特工"
+    },
+    {
+      "title": "我怕来不及",
+      "year": "2019",
+      "cid": "mzc00200jidqley",
+      "actors": "唐曾 徐小飒 王丽云 梅婷",
+      "area": "内地",
+      "genre": "家庭",
+      "episodes": "全52集",
+      "desc": "白洁和三个男人的真爱救赎"
+    },
+    {
+      "title": "无敌铁桥三",
+      "year": "2014",
+      "cid": "64850wqcbzrgo25",
+      "actors": "释小龙 马敬涵 计春华 许瑶璇",
+      "area": "内地",
+      "genre": "古装",
+      "episodes": "全40集",
+      "desc": "一代洪拳宗师传奇人生"
+    },
+    {
+      "title": "谈判官",
+      "year": "2018",
+      "cid": "1efvvnobsa3zbcc",
+      "actors": "杨幂 黄子韬 郭品超 毛林林 杨菲洋 赵文瑄 祝绪丹 赖艺",
+      "area": "内地",
+      "genre": "都市",
+      "episodes": "全43集",
+      "desc": "杨幂黄子韬情定谈判桌"
+    },
+    {
+      "title": "解放",
+      "year": "2009",
+      "cid": "t3qd0fliz287tr7",
+      "actors": "唐国强 刘劲 王伍福 郭连文 马晓伟",
+      "area": "内地",
+      "genre": "战争",
+      "episodes": "全50集",
+      "desc": "马晓伟变身蒋介石"
+    },
+    {
+      "title": "最后征战",
+      "year": "2011",
+      "cid": "ax6g35mn2ayis2j",
+      "actors": "孙逊 曾黎 宋允皓 甘露",
+      "area": "内地",
+      "genre": "战争",
+      "episodes": "全43集",
+      "desc": "步步惊心的寻宝探险历程"
+    },
+    {
+      "title": "爱情面前谁怕谁",
+      "year": "2013",
+      "cid": "zs57m36z9f8y6sn",
+      "actors": "霍思燕 张晓龙 陈紫函 习雪 许还幻",
+      "area": "内地",
+      "genre": "都市",
+      "episodes": "全36集",
+      "desc": "霍思燕展现都市女性百态图"
+    },
+    {
+      "title": "怒火英雄",
+      "year": "2016",
+      "cid": "efkjdcda3aoselz",
+      "actors": "王雷 邓家佳 霍政谚 乔乔",
+      "area": "内地",
+      "genre": "战争",
+      "episodes": "全42集",
+      "desc": "王雷邓家佳成反毒CP"
+    },
+    {
+      "title": "五星红旗迎风飘扬2",
+      "year": "2012",
+      "cid": "c0lselmt6993nzl",
+      "actors": "唐国强 孙维民 卢奇 马晓伟",
+      "area": "内地",
+      "genre": "历史",
+      "episodes": "全45集",
+      "desc": "开国伟人们的晚年生活"
+    },
+    {
+      "title": "迷案追凶",
+      "year": "2013",
+      "cid": "b86qtwqt9b6shp1",
+      "actors": "刘跃军 刘芙伶 冯国庆 佟凡 李奕娴",
+      "area": "内地",
+      "genre": "刑侦",
+      "episodes": "全22集",
+      "desc": ""
+    },
+    {
+      "title": "绿水青山好日子",
+      "year": "2018",
+      "cid": "z3cfgm13pudvcbh",
+      "actors": "王雅捷 王小利 来喜",
+      "area": "内地",
+      "genre": "农村",
+      "episodes": "全48集",
+      "desc": ""
+    },
+    {
+      "title": "彩虹",
+      "year": "2018",
+      "cid": "mzc00200rzj4m5s",
+      "actors": "王茜华 王挺 房子斌 王红梅 赵玲琪 李大强",
+      "area": "内地",
+      "genre": "农村",
+      "episodes": "全46集",
+      "desc": ""
+    },
+    {
+      "title": "法网追击",
+      "year": "2017",
+      "cid": "mzc00200e8g23op",
+      "actors": "朱研 及晓龙 陈春 高海鹏 张昊翔 铁政",
+      "area": "内地",
+      "genre": "警匪",
+      "episodes": "全30集",
+      "desc": ""
+    },
+    {
+      "title": "王初一与刘十五",
+      "year": "2016",
+      "cid": "mzc00200u5k4ubx",
+      "actors": "李幼斌 李大强 史兰芽 王晴 王红梅 沈陶然 高郡伟",
+      "area": "内地",
+      "genre": "农村",
+      "episodes": "全45集",
+      "desc": ""
+    },
+    {
+      "title": "田姐辣妹",
+      "year": "2017",
+      "cid": "09acyx9h7jaduth",
+      "actors": "蒋勤勤 王阳 郝泽嘉 邓英",
+      "area": "内地",
+      "genre": "家庭",
+      "episodes": "全46集",
+      "desc": "蒋勤勤霸气演女版老炮儿"
+    },
+    {
+      "title": "新一剪梅",
+      "year": "2010",
+      "cid": "xgtiw92vxrxc0fa",
+      "actors": "霍建华 吕一 陈思诚 李立群",
+      "area": "内地",
+      "genre": "爱情",
+      "episodes": "全40集",
+      "desc": "两大家族的三代情仇"
+    },
+    {
+      "title": "东海客栈",
+      "year": "2013",
+      "cid": "7gpsobfhcok1yis",
+      "actors": "高昌昊 黄子腾 闫鹿杨 崔宝月 徐铭悦",
+      "area": "内地",
+      "genre": "战争",
+      "episodes": "全24集",
+      "desc": "小客栈中的明争暗斗"
+    },
+    {
+      "title": "烽火燃情",
+      "year": "2011",
+      "cid": "i6s68zs5yo8xzjp",
+      "actors": "胡海锋 王力可 许还幻 王奎荣 午马 朱一龙",
+      "area": "内地",
+      "genre": "战争",
+      "episodes": "全30集",
+      "desc": "可歌可泣的革命故事"
+    },
+    {
+      "title": "特勤精英",
+      "year": "2017",
+      "cid": "r9gtfcofby9r1eg",
+      "actors": "张丹峰 苏青 李乃文 包文婧 丁野",
+      "area": "内地",
+      "genre": "军旅",
+      "episodes": "全32集",
+      "desc": "张丹峰变身热血消防战士"
+    },
+    {
+      "title": "回马枪",
+      "year": "2016",
+      "cid": "mzc0020023olybv",
+      "actors": "邵兵 连奕名 林威 赵子惠 顾璇 曹卫宇",
+      "area": "内地",
+      "genre": "战争",
+      "episodes": "全35集",
+      "desc": "龙寨军民团结抗敌守护家园"
+    },
+    {
+      "title": "茶馆",
+      "year": "2010",
+      "cid": "q898sh1re1ccs9n",
+      "actors": "陈宝国 谢钢 周里京 石小满 梁天",
+      "area": "内地",
+      "genre": "剧情",
+      "episodes": "全39集",
+      "desc": "陈宝国演老舍经典"
+    },
+    {
+      "title": "二十四道拐",
+      "year": "2014",
+      "cid": "p1lucnnej1h23lw",
+      "actors": "刘小锋 甘婷婷 海一天 齐芳",
+      "area": "内地",
+      "genre": "战争",
+      "episodes": "全32集",
+      "desc": "中美联军保卫抗战公路"
+    },
+    {
+      "title": "小白菜奇案",
+      "year": "2012",
+      "cid": "ed6mq8lpvncwbzz",
+      "actors": "李保田 陈瑾 毛林林",
+      "area": "内地",
+      "genre": "古装",
+      "episodes": "全33集",
+      "desc": "李保田心狠手辣饰演反派"
+    },
+    {
+      "title": "东北抗日联军",
+      "year": "2015",
+      "cid": "ysj6iry4h8mjlzh",
+      "actors": "王洛勇 刘威葳 成泰燊 史光辉",
+      "area": "内地",
+      "genre": "战争",
+      "episodes": "全46集",
+      "desc": "王洛勇演绎杨靖宇"
+    },
+    {
+      "title": "少林寺传奇2",
+      "year": "2009",
+      "cid": "xxs5rdel3p39ax4",
+      "actors": "元彪 林志颖 叶剑卫 孙颖歆 谢苗 梁家仁 午马 赵小锐 潘元甲 李冲",
+      "area": "内地",
+      "genre": "古装",
+      "episodes": "全50集",
+      "desc": "十三棍僧拯救唐王李世民"
+    },
+    {
+      "title": "远大前程",
+      "year": "2018",
+      "cid": "lghf54x4o1mc2ob",
+      "actors": "陈思诚 袁弘 佟丽娅 郭采洁",
+      "area": "内地",
+      "genre": "传奇",
+      "episodes": "全48集",
+      "desc": "陈思诚佟丽娅合体闯荡上海滩"
+    },
+    {
+      "title": "神秘人质",
+      "year": "2013",
+      "cid": "dua07xv6rput6av",
+      "actors": "刘小锋 黄曼 宁晓志 任柯诺",
+      "area": "内地",
+      "genre": "谍战",
+      "episodes": "全41集",
+      "desc": "特工对峙神秘人"
+    },
+    {
+      "title": "哥哥姐姐的花样年华",
+      "year": "2018",
+      "cid": "47t5p91a8ddeg66",
+      "actors": "王雅捷 王挺 史光辉",
+      "area": "内地",
+      "genre": "家庭",
+      "episodes": "全50集",
+      "desc": "年代版《都挺好》"
+    },
+    {
+      "title": "高兴的酸甜苦辣",
+      "year": "2022",
+      "cid": "mzc00200za5q5yq",
+      "actors": "娄艺潇 朱梓骁",
+      "area": "内地",
+      "genre": "剧情",
+      "episodes": "全40集",
+      "desc": "娄艺潇朱梓骁京城之恋"
+    },
+    {
+      "title": "双城生活",
+      "year": "2011",
+      "cid": "9j82ecdoigxn7cl",
+      "actors": "马伊琍 涂松岩 张小磊 岳红",
+      "area": "内地",
+      "genre": "家庭",
+      "episodes": "全32集",
+      "desc": "马伊琍解婆媳关系"
+    },
+    {
+      "title": "乱世危情",
+      "year": "2018",
+      "cid": "mzc00200tkjet0y",
+      "actors": "黄澄澄 付梦妮",
+      "area": "内地",
+      "genre": "战争",
+      "episodes": "全49集",
+      "desc": "修脚师傅卷入暗杀阴谋"
+    },
+    {
+      "title": "明天我们好好过",
+      "year": "2021",
+      "cid": "mzc002009w9edxi",
+      "actors": "佟丽娅 张亮 王宫良 许芳铱",
+      "area": "内地",
+      "genre": "爱情",
+      "episodes": "全42集",
+      "desc": "佟丽娅张亮破“不婚”心防"
+    },
+    {
+      "title": "省港大营救",
+      "year": "2015",
+      "cid": "debvh3mp0psqmbl",
+      "actors": "侯京健 朱泳腾 斯琴高娃 徐程",
+      "area": "内地",
+      "genre": "谍战",
+      "episodes": "全35集",
+      "desc": "侯京健朱泳腾相爱相杀"
+    },
+    {
+      "title": "故乡的泥土",
+      "year": "2024",
+      "cid": "mzc00200wxoaii8",
+      "actors": "马藜 张粟 闫学晶 刘佩琦 赵恒煊 王晓梅 张龄心 林傲霏",
+      "area": "内地",
+      "genre": "农村",
+      "episodes": "全32集",
+      "desc": "心系家国，谱写时代赞歌"
+    },
+    {
+      "title": "女人当官2",
+      "year": "2015",
+      "cid": "ddy23vas8wvvnvb",
+      "actors": "闫学晶 李大强 巩汉林 于莉红",
+      "area": "内地",
+      "genre": "农村",
+      "episodes": "全32集",
+      "desc": "闫学晶再度演绎最美村官"
+    },
+    {
+      "title": "女人树",
+      "year": "2008",
+      "cid": "3dufewtao5fynsi",
+      "actors": "颜丹晨 王也天 于震 荆浩",
+      "area": "内地",
+      "genre": "家庭",
+      "episodes": "全28集",
+      "desc": "隐形战线的英雄"
+    },
+    {
+      "title": "小娘惹",
+      "year": "2008",
+      "cid": "dr39lbgkk21fogp",
+      "actors": "欧萱 戴向宇 戚玉武 白薇秀",
+      "area": "新加坡",
+      "genre": "爱情",
+      "episodes": "全32集",
+      "desc": "几代人恩怨情仇"
+    },
+    {
+      "title": "弹孔",
+      "year": "2011",
+      "cid": "nrrfl7kv7mncgbf",
+      "actors": "郭涛 薛佳凝 郭广平 侯勇 王劲松 关亚军 程愫",
+      "area": "内地",
+      "genre": "战争",
+      "episodes": "全30集",
+      "desc": "郭涛领衔演绎红星团传奇"
+    },
+    {
+      "title": "我的妈妈是天使",
+      "year": "2012",
+      "cid": "48c86z9jehqz2sm",
+      "actors": "梁又琳 赵锦焘 陈冠霖 刘添月 吴磊 崔若涵",
+      "area": "内地",
+      "genre": "剧情",
+      "episodes": "全30集",
+      "desc": "伟大母亲可歌可泣"
+    },
+    {
+      "title": "情谜睡美人之欲望姐妹",
+      "year": "2014",
+      "cid": "ykbmlzz6oviyj20",
+      "actors": "凌潇肃 李彩桦 江祖平 杨浩煜",
+      "area": "内地",
+      "genre": "爱情",
+      "episodes": "全80集",
+      "desc": "凌潇肃李彩桦再联手"
+    },
+    {
+      "title": "亲爱的孩子们",
+      "year": "2021",
+      "cid": "mzc00200dq98r7q",
+      "actors": "鲁诺 马藜 吴其江 邵伟桐 崔心心 辛雨锡 陶珞依",
+      "area": "内地",
+      "genre": "家庭",
+      "episodes": "全40集",
+      "desc": "中国家庭变化的灿烂十年"
+    },
+    {
+      "title": "密战",
+      "year": "2009",
+      "cid": "g79yq4omv7mpvqy",
+      "actors": "刘佳 王策 侯耀华 祖峰",
+      "area": "内地",
+      "genre": "谍战",
+      "episodes": "全30集",
+      "desc": "侦查精英开启正邪较量"
+    },
+    {
+      "title": "非常有喜",
+      "year": "2012",
+      "cid": "cna624buifaiqih",
+      "actors": "海陆 李佳航 高梓淇 万茜 刘威 方青卓",
+      "area": "内地",
+      "genre": "家庭",
+      "episodes": "全32集",
+      "desc": "李佳航万茜上演神雕侠侣"
+    },
+    {
+      "title": "一剑横空",
+      "year": "2017",
+      "cid": "yx6bvdx1wrcxj18",
+      "actors": "樊少皇 李倩 黄世超 徐少强 贾晓晨 魏春光 丁勇岱 卞涛",
+      "area": "内地",
+      "genre": "战争",
+      "episodes": "全40集",
+      "desc": "樊少皇李倩乱世风雨情"
+    },
+    {
+      "title": "我的太阳",
+      "year": "2011",
+      "cid": "f66erbm60wivkpm",
+      "actors": "房子斌 桑叶红",
+      "area": "内地",
+      "genre": "剧情",
+      "episodes": "全25集",
+      "desc": "知青拼搏成为企业家"
+    },
+    {
+      "title": "代号021",
+      "year": "2005",
+      "cid": "rzrn95gmy4c6pkk",
+      "actors": "黄海冰 程煜 詹小楠 王一楠 钱志",
+      "area": "内地",
+      "genre": "谍战",
+      "episodes": "全20集",
+      "desc": "黄海冰变身地下党"
+    },
+    {
+      "title": "爱你不是三两天",
+      "year": "2015",
+      "cid": "mzc00200zq0d77x",
+      "actors": "姚笛 郭品超 刘羽琦 唐文龙 杨青 李世鹏",
+      "area": "内地",
+      "genre": "爱情",
+      "episodes": "全36集",
+      "desc": ""
+    },
+    {
+      "title": "黄土高天",
+      "year": "2018",
+      "cid": "vbvrgxf0d9jmgt4",
+      "actors": "董勇 王海燕 杨童舒 高亚麟 高明 王伟",
+      "area": "内地",
+      "genre": "剧情",
+      "episodes": "全38集",
+      "desc": "戏骨齐聚演绎农民奋斗史诗"
+    },
+    {
+      "title": "美丽谎言",
+      "year": "2014",
+      "cid": "zwmaatj4d0b36hh",
+      "actors": "刘之冰 李颖 徐以若 郝岩",
+      "area": "内地",
+      "genre": "家庭",
+      "episodes": "全36集",
+      "desc": "三兄弟的爱恨故事"
+    },
+    {
+      "title": "十二生肖传奇",
+      "year": "2011",
+      "cid": "7ghel8o5gveipsd",
+      "actors": "郭品超 杨幂 李曼 陈浩民 郑伟 王力可 释小龙",
+      "area": "内地",
+      "genre": "奇幻",
+      "episodes": "全34集",
+      "desc": "杨幂青涩出演十二生肖"
+    },
+    {
+      "title": "黑夜天使",
+      "year": "2012",
+      "cid": "rb87o06fhcock2z",
+      "actors": "周杰 郝蕾 刘佳佳 海一天",
+      "area": "内地",
+      "genre": "悬疑",
+      "episodes": "全24集",
+      "desc": "英勇抵抗日寇"
+    },
+    {
+      "title": "天不藏奸",
+      "year": "2003",
+      "cid": "i8s7x2084cor467",
+      "actors": "王亚楠 苏茂",
+      "area": "内地",
+      "genre": "刑侦",
+      "episodes": "全28集",
+      "desc": "亚楠变犯罪分子"
+    },
+    {
+      "title": "天涯浴血",
+      "year": "2016",
+      "cid": "l4ktnyewsq5y85s",
+      "actors": "唐国强 刘劲 王伍福 马晓伟",
+      "area": "内地",
+      "genre": "战争",
+      "episodes": "全28集",
+      "desc": "纪念长征胜利80周年"
+    },
+    {
+      "title": "滚滚红尘",
+      "year": "2012",
+      "cid": "n91s4ky2my8hmdv",
+      "actors": "郑嘉颖 秦岚 蒋恺 徐洁儿 杨烁",
+      "area": "内地",
+      "genre": "爱情",
+      "episodes": "全36集",
+      "desc": "民国乱世情缘"
+    },
+    {
+      "title": "洪流",
+      "year": "2014",
+      "cid": "pxkcav7h283s30l",
+      "actors": "杨烁 张璇 吴其江 马跃 张志坚 李君峰 毛林林",
+      "area": "内地",
+      "genre": "战争",
+      "episodes": "全36集",
+      "desc": "杨烁军装帅气逼人"
+    },
+    {
+      "title": "翠兰的爱情",
+      "year": "2014",
+      "cid": "n2znhgq3ql4847n",
+      "actors": "杨阳 刘家良",
+      "area": "内地",
+      "genre": "农村",
+      "episodes": "全30集",
+      "desc": "寡妇翠兰的爱情故事"
+    },
+    {
+      "title": "势不两立",
+      "year": "2014",
+      "cid": "2ith7wctrt04w66",
+      "actors": "徐佳 张垒 安琥 袁苑",
+      "area": "内地",
+      "genre": "警匪",
+      "episodes": "全35集",
+      "desc": "硬汉刑警勇斗贩毒团伙"
+    },
+    {
+      "title": "大水井风云",
+      "year": "2014",
+      "cid": "p5i0yrv6veizr26",
+      "actors": "黄觉 张衣 周浩东 潘时七",
+      "area": "内地",
+      "genre": "谍战",
+      "episodes": "全28集",
+      "desc": "黄觉领衔主演革命战士"
+    },
+    {
+      "title": "我的小姨",
+      "year": "2017",
+      "cid": "kk3apust1036t5i",
+      "actors": "童蕾 朱泳腾 赵峥 邵峰",
+      "area": "内地",
+      "genre": "家庭",
+      "episodes": "全56集",
+      "desc": "童蕾独自养育三个外甥"
+    },
+    {
+      "title": "在那遥远的地方",
+      "year": "2009",
+      "cid": "4xxi9wmzdkzshey",
+      "actors": "李幼斌 殷桃 沈晓海 吴健",
+      "area": "内地",
+      "genre": "军旅",
+      "episodes": "全28集",
+      "desc": "战争中的情谊"
+    },
+    {
+      "title": "男管家",
+      "year": "2017",
+      "cid": "mzc00200dhbm4xk",
+      "actors": "陈昊 刘钇彤 霍政谚 郑媛元 王铭铎",
+      "area": "内地",
+      "genre": "剧情",
+      "episodes": "全48集",
+      "desc": ""
+    },
+    {
+      "title": "鲜花盛开的山村",
+      "year": "2021",
+      "cid": "mzc00200pz1xp5l",
+      "actors": "王嘉 马诗红 来喜 丁勇岱",
+      "area": "内地",
+      "genre": "农村",
+      "episodes": "全33集",
+      "desc": "小人物助力乡村满溢幸福"
+    },
+    {
+      "title": "太行之脊",
+      "year": "2020",
+      "cid": "mzc002003qfojfs",
+      "actors": "杨均柏 史鑫 裴兴雷 李君峰",
+      "area": "内地",
+      "genre": "历史",
+      "episodes": "全30集",
+      "desc": "重现红色激情岁月"
+    },
+    {
+      "title": "孽缘",
+      "year": "2010",
+      "cid": "d2qksvf3byy0wv2",
+      "actors": "霍思燕 李晨 李曼 孙玮 马军勤",
+      "area": "内地",
+      "genre": "爱情",
+      "episodes": "全25集",
+      "desc": "人性偏执的故事"
+    },
+    {
+      "title": "黑凤凰",
+      "year": "2013",
+      "cid": "mzc002008ui014l",
+      "actors": "于谨维 陈姝 王全有 李菁菁",
+      "area": "内地",
+      "genre": "传奇",
+      "episodes": "全32集",
+      "desc": "爱恨纠葛的乱世情缘"
+    },
+    {
+      "title": "宝乐婶的烦心事",
+      "year": "2011",
+      "cid": "vlm3h5gnuqx8g1l",
+      "actors": "李菁菁 董连海 雷婷 陶昕然",
+      "area": "内地",
+      "genre": "农村",
+      "episodes": "全31集",
+      "desc": "东北乡村生活家庭喜剧"
+    },
+    {
+      "title": "西京故事",
+      "year": "2018",
+      "cid": "9wxd8uqdzqh9cl0",
+      "actors": "张国强 陈小艺 石安妮 刘智扬 王蕾",
+      "area": "内地",
+      "genre": "家庭",
+      "episodes": "全39集",
+      "desc": "张国强陈小艺都市追梦"
+    },
+    {
+      "title": "向东是大海",
+      "year": "2012",
+      "cid": "islrdxofgdxn2pu",
+      "actors": "王志飞 刘威葳 姜武",
+      "area": "内地",
+      "genre": "剧情",
+      "episodes": "全36集",
+      "desc": "周汉良上海发家传奇"
+    },
+    {
+      "title": "爱人同志",
+      "year": "2016",
+      "cid": "9s4pdj93ec3km9m",
+      "actors": "王雷 李小萌 罗昱焜 王鹏凯 周奇奇",
+      "area": "内地",
+      "genre": "战争",
+      "episodes": "全50集",
+      "desc": "李小萌王雷婚后同框"
+    },
+    {
+      "title": "任长霞",
+      "year": "2005",
+      "cid": "eoj31vr4rv6vp9m",
+      "actors": "刘佳 白凡 赵雍 任泽巍 李君峰",
+      "area": "内地",
+      "genre": "传记",
+      "episodes": "全21集",
+      "desc": "人民的好警察"
+    },
+    {
+      "title": "我的父亲我的兵",
+      "year": "2016",
+      "cid": "kt4gonlpeanru6h",
+      "actors": "张一山 刘威",
+      "area": "内地",
+      "genre": "战争",
+      "episodes": "全43集",
+      "desc": "张一山刘威上阵父子兵"
+    },
+    {
+      "title": "七九河开",
+      "year": "2014",
+      "cid": "nfnsey2v20fh3bv",
+      "actors": "连奕名 萨日娜 吴军忱 王维维 丁柳元 姬他 沈陶然",
+      "area": "内地",
+      "genre": "剧情",
+      "episodes": "全34集",
+      "desc": "三兄弟的感人故事"
+    },
+    {
+      "title": "纸醉金迷",
+      "year": "2008",
+      "cid": "wxz6u8100ndd3by",
+      "actors": "陈好 于和伟 邵峰 罗海琼 胡可 何赛飞",
+      "area": "内地",
+      "genre": "爱情",
+      "episodes": "全42集",
+      "desc": "大学生沦为交际花"
+    },
+    {
+      "title": "大漠苍狼",
+      "year": "2013",
+      "cid": "adoflfujqcw2lgr",
+      "actors": "黄志忠 公磊 刘孜 李芯逸 左小青",
+      "area": "内地",
+      "genre": "战争",
+      "episodes": "全34集",
+      "desc": "黄志忠变身西部牛仔"
+    },
+    {
+      "title": "木兰妈妈",
+      "year": "2016",
+      "cid": "imio5poqlndrdkp",
+      "actors": "陈小艺 范雷 刘之冰 刘琳 徐黄丽",
+      "area": "内地",
+      "genre": "家庭",
+      "episodes": "全40集",
+      "desc": "陈小艺尽展母性光辉"
+    },
+    {
+      "title": "眼中钉",
+      "year": "2007",
+      "cid": "vohuzzm1g67ueoa",
+      "actors": "徐筠 薛山 王奎荣 丁海峰",
+      "area": "内地",
+      "genre": "谍战",
+      "episodes": "全28集",
+      "desc": "中国史密斯夫妇"
+    },
+    {
+      "title": "外来媳妇本地郎",
+      "year": "2000",
+      "cid": "porrfqag7hed0at",
+      "actors": "龚锦堂 黄锦裳 苏志丹 郭昶 刘涛 丁玲",
+      "area": "内地",
+      "genre": "喜剧",
+      "episodes": "全3828集",
+      "desc": "史上播出时间最久情景剧"
+    },
+    {
+      "title": "归途",
+      "year": "2013",
+      "cid": "olhamza2dp4q2zl",
+      "actors": "王亚楠 王子瑜 韩雯雯 吴冕 王诗槐",
+      "area": "内地",
+      "genre": "谍战",
+      "episodes": "全31集",
+      "desc": "王亚楠演绎最善良的特务"
+    },
+    {
+      "title": "新四军",
+      "year": "2003",
+      "cid": "507u9lcdi8mnq2a",
+      "actors": "吴京安 冯国庆 张延 刘之冰",
+      "area": "内地",
+      "genre": "战争",
+      "episodes": "全26集",
+      "desc": "轰轰烈烈的抗日"
+    },
+    {
+      "title": "欢天喜地对亲家",
+      "year": "2014",
+      "cid": "bvrwjxpv6yh5dwp",
+      "actors": "秦卫东 李菁菁 王晓曦 邵峰",
+      "area": "内地",
+      "genre": "农村",
+      "episodes": "全35集",
+      "desc": "农村情感喜剧"
+    },
+    {
+      "title": "哈儿传奇",
+      "year": "2009",
+      "cid": "22x817f8lh3mjvu",
+      "actors": "闾汉彪 张春 朱梓郡",
+      "area": "内地",
+      "genre": "战争",
+      "episodes": "全34集",
+      "desc": "樊哈儿的悲喜一生"
+    },
+    {
+      "title": "灵与肉",
+      "year": "2018",
+      "cid": "hpntvj5t6fq313n",
+      "actors": "于谨维 孙茜 王全有",
+      "area": "内地",
+      "genre": "历史",
+      "episodes": "全42集",
+      "desc": "一代知识分子扎根边疆"
+    },
+    {
+      "title": "血色恋情",
+      "year": "2011",
+      "cid": "90fpvikha1hy5zk",
+      "actors": "孙菲菲 王阳 林家川 秦卫东",
+      "area": "内地",
+      "genre": "爱情",
+      "episodes": "全30集",
+      "desc": "爱上仇人的儿子"
+    },
+    {
+      "title": "白色毒网",
+      "year": "2008",
+      "cid": "k86q3tqdvacf82i",
+      "actors": "刘昌伟 刘丹丽",
+      "area": "内地",
+      "genre": "犯罪",
+      "episodes": "全20集",
+      "desc": "远离毒品珍爱生命"
+    },
+    {
+      "title": "英雄诀",
+      "year": "2019",
+      "cid": "mzc0020047wnio9",
+      "actors": "宁静 张睿 吕良伟 嘉男海林 覃文静",
+      "area": "内地",
+      "genre": "古装",
+      "episodes": "全58集",
+      "desc": "宁静吕良伟演绎大明风云"
+    },
+    {
+      "title": "李三枪",
+      "year": "2016",
+      "cid": "95ddjo3ia1jlewz",
+      "actors": "刘恩佑 战菁一 高叶",
+      "area": "内地",
+      "genre": "战争",
+      "episodes": "全39集",
+      "desc": "中国县长李三枪保家卫国"
+    },
+    {
+      "title": "殊死七日",
+      "year": "2015",
+      "cid": "pzuqartfjn6y4zt",
+      "actors": "吴健 田璐菡 杜志国 刘海蓝",
+      "area": "内地",
+      "genre": "战争",
+      "episodes": "全34集",
+      "desc": "吴健成中国版汤姆克鲁斯"
+    },
+    {
+      "title": "乡亲乡爱",
+      "year": "2019",
+      "cid": "8u40utcziopk4m9",
+      "actors": "范伟 刘冠言 潘小样",
+      "area": "内地",
+      "genre": "喜剧",
+      "episodes": "全39集",
+      "desc": "有志青年助力农村建设"
+    },
+    {
+      "title": "一代禅师",
+      "year": "2015",
+      "cid": "mzc002001kgvhr9",
+      "actors": "贺刚 王姬 温海波 李欣蔓 赵秋生 桑伟淋",
+      "area": "内地",
+      "genre": "古装",
+      "episodes": "全47集",
+      "desc": ""
+    },
+    {
+      "title": "我的传奇老婆",
+      "year": "2012",
+      "cid": "qg6yj9m4jwh9k2w",
+      "actors": "王挺 刘佩琦 崔波 李立群",
+      "area": "内地",
+      "genre": "战争",
+      "episodes": "全33集",
+      "desc": "音乐才子爱上女土匪"
+    },
+    {
+      "title": "铁血雄心",
+      "year": "2011",
+      "cid": "dz5ebgwilgwdt31",
+      "actors": "陈洁 孙玮 申军谊 郑清文",
+      "area": "内地",
+      "genre": "警匪",
+      "episodes": "全26集",
+      "desc": "击跨国贩毒大案"
+    },
+    {
+      "title": "黑河风云",
+      "year": "2020",
+      "cid": "m0cskfjhvisuzw4",
+      "actors": "王斑 李玲玉 斯琴高娃 雷恪生 申军谊",
+      "area": "内地",
+      "genre": "传奇",
+      "episodes": "全30集",
+      "desc": "时代变迁下的悲欢离合"
+    },
+    {
+      "title": "长征",
+      "year": "2001",
+      "cid": "p7r69872jb8hg3u",
+      "actors": "唐国强 刘劲 王伍福 陈道明",
+      "area": "内地",
+      "genre": "战争",
+      "episodes": "全24集",
+      "desc": "唐国强化身毛泽东"
+    },
+    {
+      "title": "中国家庭之新渴望",
+      "year": "2009",
+      "cid": "zehczv7cap99gs8",
+      "actors": "姚芊羽 杜淳 邵兵 刘莉莉",
+      "area": "内地",
+      "genre": "家庭",
+      "episodes": "全30集",
+      "desc": "家里的事"
+    },
+    {
+      "title": "戈壁母亲",
+      "year": "2007",
+      "cid": "zm646uygvr3cizh",
+      "actors": "刘佳 巫刚 耿乐 柯蓝",
+      "area": "内地",
+      "genre": "家庭",
+      "episodes": "全30集",
+      "desc": "母亲的故事"
+    },
+    {
+      "title": "我的1997",
+      "year": "2017",
+      "cid": "c8lzgjvk6gotbm9",
+      "actors": "印小天 瑛子 巫刚 陈瑾 刘之冰 孔琳",
+      "area": "内地",
+      "genre": "剧情",
+      "episodes": "全32集",
+      "desc": "献礼香港回归20周年"
+    },
+    {
+      "title": "待嫁老爸",
+      "year": "2015",
+      "cid": "0kzpjjr1iclvd4n",
+      "actors": "王志文 朱丹 陈好 刘蓓 白卉子",
+      "area": "内地",
+      "genre": "家庭",
+      "episodes": "全38集",
+      "desc": "王志文演绎另类恋曲"
+    },
+    {
+      "title": "真心想让你幸福",
+      "year": "2016",
+      "cid": "2einlbdpmha79xg",
+      "actors": "范明 朱锐 闫学晶 马德钟 曾黎 王丽云",
+      "area": "内地",
+      "genre": "家庭",
+      "episodes": "全38集",
+      "desc": "范明朱锐演绎幸福生活"
+    },
+    {
+      "title": "上将许世友",
+      "year": "2006",
+      "cid": "ux4pigav20qw5uy",
+      "actors": "张秋歌 范明 宁晓志 刘劲",
+      "area": "内地",
+      "genre": "传记",
+      "episodes": "全20集",
+      "desc": "许世友将军传奇人生故事"
+    },
+    {
+      "title": "独有英雄",
+      "year": "2013",
+      "cid": "muzv2ep7v9a7x1p",
+      "actors": "周一围 包贝尔 薛佳凝 李小冉 于明加",
+      "area": "内地",
+      "genre": "传奇",
+      "episodes": "全34集",
+      "desc": "复仇之路变救国路"
+    },
+    {
+      "title": "最美的乡村",
+      "year": "2020",
+      "cid": "mzc00200x3dd4m4",
+      "actors": "杨志刚 岳丽娜 刘智扬 于毅",
+      "area": "内地",
+      "genre": "农村",
+      "episodes": "全30集",
+      "desc": "扶贫攻坚发扬刺绣文化"
+    },
+    {
+      "title": "第一杀手王亚樵",
+      "year": "2002",
+      "cid": "c6zmpu61ouc44ya",
+      "actors": "萧蔷 修庆 施羽",
+      "area": "内地",
+      "genre": "战争",
+      "episodes": "全20集",
+      "desc": "第一杀手的传奇往事"
+    },
+    {
+      "title": "国门英雄",
+      "year": "2011",
+      "cid": "h87mhjjowzkg0uq",
+      "actors": "李幼斌 史兰芽",
+      "area": "内地",
+      "genre": "悬疑",
+      "episodes": "全36集",
+      "desc": "海关题材悬疑剧"
+    },
+    {
+      "title": "百集聊斋之人鬼情缘",
+      "year": "2000",
+      "cid": "mx4bu8104l9gwkk",
+      "actors": "刘敏涛 刘奕君 王辉 张子健",
+      "area": "内地",
+      "genre": "古装",
+      "episodes": "全20集",
+      "desc": "电视剧版倩女幽魂"
+    },
+    {
+      "title": "酸甜苦辣小夫妻",
+      "year": "2014",
+      "cid": "dr6jw11bkibkqff",
+      "actors": "王雷 车晓 李心敏 阿楠 黄幻",
+      "area": "内地",
+      "genre": "都市",
+      "episodes": "全36集",
+      "desc": "王雷车晓演绎夫妻囧事"
+    },
+    {
+      "title": "给你生命给我爱",
+      "year": "2011",
+      "cid": "lmg0o4x5i27ierl",
+      "actors": "林雨申 马晓灿 周美毅 茹萍",
+      "area": "内地",
+      "genre": "家庭",
+      "episodes": "全32集",
+      "desc": "失散双胞胎书写不同人生"
+    },
+    {
+      "title": "青恋",
+      "year": "2017",
+      "cid": "zgwlzdfvax035nt",
+      "actors": "郭京飞 车晓 冯嘉怡 尤靖茹",
+      "area": "内地",
+      "genre": "农村",
+      "episodes": "全26集",
+      "desc": "郭京飞车晓共谱青山之恋"
+    },
+    {
+      "title": "望海的女人",
+      "year": "2014",
+      "cid": "kxxfgikuyvmi752",
+      "actors": "陈冠霖 吕夏葳 周诗璇 马光泽",
+      "area": "内地",
+      "genre": "家庭",
+      "episodes": "全40集",
+      "desc": "寡妇村的故事"
+    },
+    {
+      "title": "繁城之下",
+      "year": "2023",
+      "cid": "mzc00200rslo568",
+      "actors": "白宇帆 宁理 向涵之 刘怡潼 张昊唯 曾黎 宗俊涛 于垚",
+      "area": "内地",
+      "genre": "悬疑",
+      "episodes": "全12集",
+      "desc": "白宇帆宁理破诡案揭人性"
+    },
+    {
+      "title": "中国出了个毛泽东",
+      "year": "1993",
+      "cid": "kvr54vty2yq90vf",
+      "actors": "古月 刘怀正",
+      "area": "内地",
+      "genre": "传记",
+      "episodes": "全13集",
+      "desc": "纪录伟人传奇一生"
+    },
+    {
+      "title": "乱世玉缘",
+      "year": "2009",
+      "cid": "v56xd3uwtegyvaa",
+      "actors": "保剑锋 颜丹晨 刘汉强 葛蕾",
+      "area": "内地",
+      "genre": "爱情",
+      "episodes": "全34集",
+      "desc": "关于玉的故事"
+    },
+    {
+      "title": "杀出黎明",
+      "year": "2015",
+      "cid": "ed81myezwz0bqex",
+      "actors": "邵桐 杨蕊 王奎荣 秦沛",
+      "area": "内地",
+      "genre": "悬疑",
+      "episodes": "全36集",
+      "desc": "律师为民与恶势力对抗"
+    },
+    {
+      "title": "天网·行踪",
+      "year": "2014",
+      "cid": "d6pnpnuot94d5z2",
+      "actors": "郑卫莉 鲍鲲 崔宝月 杜志国",
+      "area": "内地",
+      "genre": "刑侦",
+      "episodes": "全23集",
+      "desc": "公安档案真实事件改编"
+    },
+    {
+      "title": "强者风范",
+      "year": "2012",
+      "cid": "4my0nmk1ah6pp0x",
+      "actors": "陈宝国 吴刚 常铖 岳秀清",
+      "area": "内地",
+      "genre": "谍战",
+      "episodes": "全30集",
+      "desc": "解放冷江"
+    },
+    {
+      "title": "黄金背后",
+      "year": "2013",
+      "cid": "ri6r2p9jnfo52ih",
+      "actors": "刘威 徐筠 高兰村 李凤绪",
+      "area": "内地",
+      "genre": "传奇",
+      "episodes": "全33集",
+      "desc": "一个传奇女子的故事"
+    },
+    {
+      "title": "我的爱对你说",
+      "year": "2015",
+      "cid": "ffssz7i9lr0mhjw",
+      "actors": "余文乐 杨蓉 朱一龙",
+      "area": "内地",
+      "genre": "爱情",
+      "episodes": "全42集",
+      "desc": "朱一龙变身富少陷入苦恋"
+    },
+    {
+      "title": "上海一家人",
+      "year": "1991",
+      "cid": "tq5lv57gxkiy45x",
+      "actors": "李羚 何伟 谢园 曹翠芬",
+      "area": "内地",
+      "genre": "剧情",
+      "episodes": "全26集",
+      "desc": "坚强村姑闯荡上海滩"
+    },
+    {
+      "title": "赵氏孤儿案",
+      "year": "2013",
+      "cid": "4h3c93w0adi9vzb",
+      "actors": "吴秀波 孙淳 应采儿 王雨 郑昊 一真 张译文 侯长荣",
+      "area": "内地",
+      "genre": "古装",
+      "episodes": "全41集",
+      "desc": "经典古装历史权谋大戏"
+    },
+    {
+      "title": "汉口码头",
+      "year": "2012",
+      "cid": "7pyxifv4p3hr4xe",
+      "actors": "刘牧 林伊婷 李立群 刘立伟 向甜",
+      "area": "内地",
+      "genre": "战争",
+      "episodes": "全33集",
+      "desc": "战时民族商业崛起"
+    },
+    {
+      "title": "疯狂的背后",
+      "year": "2007",
+      "cid": "trkewrusfoj5t0w",
+      "actors": "丁勇岱 袁苑 许亚军 刘琳",
+      "area": "内地",
+      "genre": "警匪",
+      "episodes": "全23集",
+      "desc": "黑道大佬暴死记"
+    }
+  ],
+  "movies": [
+    {
+      "title": "飞驰人生3",
+      "year": "2026",
+      "cid": "mzc00200idzf2m8",
+      "actors": "沈腾 尹正 黄景瑜 张本煜 魏翔 沙溢 范丞丞 孙艺洲 段奕宏 张新成 胡先煦 李治廷 白宇帆 周政杰 高华阳 贾冰 王安宇 陈永胜 冯绍峰",
+      "area": "内地",
+      "genre": "喜剧",
+      "episodes": "",
+      "desc": "沈腾再踏“飞驰”之路"
+    },
+    {
+      "title": "黑猫警长之翡翠之星",
+      "year": "2015",
+      "cid": "w3ul47d11rav8ks",
+      "actors": "",
+      "area": "内地",
+      "genre": "动画",
+      "episodes": "82",
+      "desc": "时隔30年续写童年回忆"
+    },
+    {
+      "title": "金陵十三钗",
+      "year": "2011",
+      "cid": "hu9th0blgco6c89",
+      "actors": "克里斯蒂安·贝尔 倪妮 张歆怡 黄天元 佟大为 聂远 窦骁 渡部笃郎",
+      "area": "内地",
+      "genre": "战争",
+      "episodes": "145",
+      "desc": "贝尔倪妮悲壮演绎血泪救赎"
+    },
+    {
+      "title": "老鹰抓小鸡",
+      "year": "2021",
+      "cid": "mzc00200qckqxs3",
+      "actors": "",
+      "area": "内地",
+      "genre": "动画",
+      "episodes": "",
+      "desc": "坚持很酷！小鹰热血逐梦"
+    },
+    {
+      "title": "龙神太子",
+      "year": "1992",
+      "cid": "ilkq0th65hfzzt1",
+      "actors": "刘德华 关之琳 郭富城 吴君如 吴孟达",
+      "area": "中国香港",
+      "genre": "喜剧",
+      "episodes": "83",
+      "desc": "刘德华郭富城颜值大PK"
+    },
+    {
+      "title": "倩女幽魂",
+      "year": "2011",
+      "cid": "h8aovufr2nix8pv",
+      "actors": "刘亦菲 古天乐 余少群 惠英红 樊少皇",
+      "area": "内地",
+      "genre": "惊悚",
+      "episodes": "96",
+      "desc": "刘亦菲香艳女鬼诱惑"
+    },
+    {
+      "title": "托马斯大电影之世界探险记",
+      "year": "2018",
+      "cid": "edvnkem79fre5zd",
+      "actors": "",
+      "area": "英国",
+      "genre": "动画",
+      "episodes": "",
+      "desc": "托马斯的环球梦"
+    },
+    {
+      "title": "终极代码",
+      "year": "2021",
+      "cid": "0nrhtcuq0vc2vwe",
+      "actors": "孟璐 管乐 吴治廷 大卫·贝利",
+      "area": "内地",
+      "genre": "动作",
+      "episodes": "",
+      "desc": "末日将袭中国英雄救世界"
+    },
+    {
+      "title": "疯狂动物城2",
+      "year": "2025",
+      "cid": "mzc0020049e46wy",
+      "actors": "",
+      "area": "美国",
+      "genre": "动画",
+      "episodes": "",
+      "desc": "最强拍档回归，全城再度“疯狂”"
+    },
+    {
+      "title": "夜·店",
+      "year": "2009",
+      "cid": "9j2gs89wgn6zcoh",
+      "actors": "徐峥 李小璐 乔任梁",
+      "area": "内地",
+      "genre": "喜剧",
+      "episodes": "91",
+      "desc": "徐铮搞笑代表作"
+    },
+    {
+      "title": "镖人：风起大漠",
+      "year": "2026",
+      "cid": "mzc00200gag6dkh",
+      "actors": "吴京 谢霆锋 于适 陈丽君 孙艺洲 此沙 李云霄 梁家辉 张晋 惠英红 张译 李连杰 时代少年团刘耀文 熊瑾怡 莒谦朗 白那日苏 梁壁荧 文俊辉 董思成 林秋楠 景瓷 张艺泷 李嘉辉 寇占文 代乐乐 释彦能 徐向东 淳于珊珊 孟鹤堂 于荣光",
+      "area": "内地",
+      "genre": "动作",
+      "episodes": "",
+      "desc": "袁和平吴京热血江湖梦"
+    },
+    {
+      "title": "呼啸山庄",
+      "year": "1992",
+      "cid": "ru1cyc9u23syjwy",
+      "actors": "朱丽叶·比诺什 拉尔夫·费因斯",
+      "area": "英国",
+      "genre": "爱情",
+      "episodes": "102",
+      "desc": "朱丽叶·比诺什演绎英国经典小说"
+    },
+    {
+      "title": "猪猪侠之囧囧危机",
+      "year": "2012",
+      "cid": "wbrvedar7aclm89",
+      "actors": "",
+      "area": "内地",
+      "genre": "动画",
+      "episodes": "83",
+      "desc": "猪猪侠拯救地球"
+    },
+    {
+      "title": "不当交易",
+      "year": "2010",
+      "cid": "7fts4jqnoy2x2fw",
+      "actors": "黄政民 柳承范 刘海镇 千浩振 宋清晨",
+      "area": "韩国",
+      "genre": "犯罪",
+      "episodes": "115",
+      "desc": "第32届青龙奖最佳影片"
+    },
+    {
+      "title": "我的爸爸是森林之王2",
+      "year": "2020",
+      "cid": "mzc00200600il63",
+      "actors": "",
+      "area": "比利时",
+      "genre": "动画",
+      "episodes": "",
+      "desc": "人与萌宠惊喜冒险之旅"
+    },
+    {
+      "title": "精灵宝可梦：波尔凯尼恩与机巧的玛机雅娜",
+      "year": "2016",
+      "cid": "egtq4vion0bv48w",
+      "actors": "",
+      "area": "日本",
+      "genre": "动画",
+      "episodes": "",
+      "desc": "童年经典回归！去吧皮卡丘"
+    },
+    {
+      "title": "越界",
+      "year": "2021",
+      "cid": "mzc00200ydm1qe5",
+      "actors": "陈家乐 陈嘉桓 雨侨 罗兰 张达明",
+      "area": "内地",
+      "genre": "惊悚",
+      "episodes": "",
+      "desc": "《山村老尸》导演最新力作"
+    },
+    {
+      "title": "等风来",
+      "year": "2013",
+      "cid": "938jrnzj4dx6xtf",
+      "actors": "倪妮 井柏然 刘雅瑟 张子萱",
+      "area": "内地",
+      "genre": "喜剧",
+      "episodes": "101",
+      "desc": "井柏然倪妮欢喜冤家修成正果"
+    },
+    {
+      "title": "蜡笔小新：我们的恐龙日记",
+      "year": "2024",
+      "cid": "mzc002006u2ah1q",
+      "actors": "",
+      "area": "日本",
+      "genre": "动画",
+      "episodes": "",
+      "desc": "蜡笔小新版侏罗纪世界"
+    },
+    {
+      "title": "八卦宗师",
+      "year": "2012",
+      "cid": "eyk0369bvo1laag",
+      "actors": "欧力豪 谢苗 孙夕尧 梁小龙 刘锡明 熊欣欣",
+      "area": "内地",
+      "genre": "动作",
+      "episodes": "120",
+      "desc": "生死情仇"
+    },
+    {
+      "title": "邪恶帝国的兴起",
+      "year": "2003",
+      "cid": "jq02y3krvihgo25",
+      "actors": "罗伯特·卡莱尔 斯托卡特·詹宁 吉娜·马隆 朱丽安娜·玛格丽丝 马修·莫迪恩",
+      "area": "美国",
+      "genre": "传记",
+      "episodes": "",
+      "desc": "恶魔希特勒的一生"
+    },
+    {
+      "title": "最后的巫师猎人",
+      "year": "2015",
+      "cid": "vujz34qxqt9en53",
+      "actors": "范·迪塞尔 伊利亚·伍德 露丝·莱斯利 Julie Engelbrecht 迈克尔·凯恩",
+      "area": "美国",
+      "genre": "动作",
+      "episodes": "107",
+      "desc": "范·迪塞尔不开车照样完虐你"
+    },
+    {
+      "title": "猎杀游戏",
+      "year": "2025",
+      "cid": "mzc002007df8ccv",
+      "actors": "格伦·鲍威尔 乔什·布洛林 李·佩斯 迈克尔·塞拉 科尔曼·多明戈 凯蒂·M·奥布莱恩 艾米莉亚·琼斯 杰米·劳森 威廉姆·H·梅西 卡尔·格洛斯曼 马丁·赫利希 西恩·海耶斯 西耶娜·本 艾莉莎·本 大卫·札亚斯 丹尼尔·埃兹拉 李·查尔斯 桑德拉·迪金森 乔治·卡罗尔 索菲·西蒙特 奥妮克·阿德莉 乔伊·安沙 布兰登·伯克",
+      "area": "美国",
+      "genre": "动作",
+      "episodes": "",
+      "desc": "格伦·鲍威尔孤身闯入死亡游戏"
+    },
+    {
+      "title": "孤儿怨",
+      "year": "2009",
+      "cid": "6mh5f2mpvamfyli",
+      "actors": "伊莎贝拉·弗尔曼 吉米·本内特 维拉·法梅加 彼得·萨斯加德 阿娅娜·恩吉妮尔",
+      "area": "美国",
+      "genre": "悬疑",
+      "episodes": "123",
+      "desc": "这个小萝莉，你敢惹吗"
+    },
+    {
+      "title": "七小罗汉",
+      "year": "2010",
+      "cid": "210c323zw7xwh5f",
+      "actors": "曾志伟 陈思诚 牛萌萌 马健 王东方 贾惠景 王劲",
+      "area": "内地",
+      "genre": "动作",
+      "episodes": "100",
+      "desc": "小罗汉整蛊陈思诚"
+    },
+    {
+      "title": "车在囧途",
+      "year": "2012",
+      "cid": "g6r4vy8p2y6hsvq",
+      "actors": "郭德纲 许绍洋 张馨予 王一楠",
+      "area": "内地",
+      "genre": "喜剧",
+      "episodes": "91",
+      "desc": "人在囧途兄弟篇"
+    },
+    {
+      "title": "连体阴",
+      "year": "2007",
+      "cid": "5w4vn5eqtmj5i1n",
+      "actors": "玛莎·华顿娜柏妮 维塔亚·瓦苏格拉派汕",
+      "area": "泰国",
+      "genre": "恐怖",
+      "episodes": "90",
+      "desc": "连体姐妹花分离手术"
+    },
+    {
+      "title": "疯狂海盗团",
+      "year": "2019",
+      "cid": "mzc00200rmpyfmo",
+      "actors": "",
+      "area": "挪威",
+      "genre": "动画",
+      "episodes": "",
+      "desc": "关于魔法钻石的故事"
+    },
+    {
+      "title": "赛尔号大电影3之战神联盟",
+      "year": "2013",
+      "cid": "mpunzefntvd889a",
+      "actors": "",
+      "area": "内地",
+      "genre": "动画",
+      "episodes": "01:39:26",
+      "desc": "动漫界复仇者联盟"
+    },
+    {
+      "title": "母语",
+      "year": "2012",
+      "cid": "ii4644hvs8zijia",
+      "actors": "秦岚 方中信 汪裴",
+      "area": "内地",
+      "genre": "家庭",
+      "episodes": "93",
+      "desc": "中国首部代孕题材电影"
+    },
+    {
+      "title": "熊出没·年年有熊",
+      "year": "2026",
+      "cid": "mzc002009qyd7nv",
+      "actors": "",
+      "area": "内地",
+      "genre": "动画",
+      "episodes": "",
+      "desc": "熊强全新能力惊艳登场"
+    },
+    {
+      "title": "潜艇总动员4：章鱼奇遇记",
+      "year": "2014",
+      "cid": "afyxeoxrv1ddayo",
+      "actors": "",
+      "area": "内地",
+      "genre": "动画",
+      "episodes": "76",
+      "desc": "章鱼保罗历险记"
+    },
+    {
+      "title": "火车",
+      "year": "2012",
+      "cid": "4r7lkxlsg3k5scw",
+      "actors": "李善均 金敏喜 赵成夏 宋昰昀",
+      "area": "韩国",
+      "genre": "悬疑",
+      "episodes": "111",
+      "desc": "柏林影后金敏喜演绎心机女"
+    },
+    {
+      "title": "罪与罚",
+      "year": "2009",
+      "cid": "asooxhmv9t01hx4",
+      "actors": "郭富城 张钧甯 张兆辉 何超仪",
+      "area": "中国香港",
+      "genre": "犯罪",
+      "episodes": "",
+      "desc": "郭富城亦正亦邪"
+    },
+    {
+      "title": "海豹突击队",
+      "year": "2008",
+      "cid": "uwc5bonfpywnhyw",
+      "actors": "扎克·麦克格温",
+      "area": "美国",
+      "genre": "动作",
+      "episodes": "98",
+      "desc": "还原海湾战争的惊险战役"
+    },
+    {
+      "title": "的士速递",
+      "year": "1998",
+      "cid": "vx28eacrd1aar2k",
+      "actors": "萨米·纳塞利 玛丽昂·歌迪亚 Manuela Gourary",
+      "area": "法国",
+      "genre": "喜剧",
+      "episodes": "",
+      "desc": "痞帅的哥VS萌呆警探爆笑发车"
+    },
+    {
+      "title": "熊出没·逆转时空",
+      "year": "2024",
+      "cid": "mzc00200z75eesp",
+      "actors": "",
+      "area": "内地",
+      "genre": "动画",
+      "episodes": "",
+      "desc": "光头强穿越时空拯救二熊"
+    },
+    {
+      "title": "蜘蛛侠：英雄无归",
+      "year": "2021",
+      "cid": "mzc0020004aiup2",
+      "actors": "汤姆·赫兰德 赞达亚·科尔曼 本尼迪克特·康伯巴奇 雅各·巴塔伦 托比·马奎尔",
+      "area": "美国",
+      "genre": "动作",
+      "episodes": "",
+      "desc": "蜘蛛侠奇异博士神级联手"
+    },
+    {
+      "title": "蔡李佛",
+      "year": "2011",
+      "cid": "gjojcm4f175xu62",
+      "actors": "洪金宝 黄嘉乐 元华 洪天照",
+      "area": "中国香港",
+      "genre": "动作",
+      "episodes": "92",
+      "desc": "洪金宝纯功夫片"
+    },
+    {
+      "title": "追男仔",
+      "year": "1993",
+      "cid": "qbwmqecc3zwb8as",
+      "actors": "梁家辉 林青霞 张曼玉 张学友 邱淑贞",
+      "area": "中国香港",
+      "genre": "喜剧",
+      "episodes": "85",
+      "desc": "林青霞雇佣梁家辉假扮男友"
+    },
+    {
+      "title": "拆弹部队",
+      "year": "2008",
+      "cid": "i1s6qf8f3wmhgxe",
+      "actors": "杰瑞米·雷纳 安东尼·麦凯 盖·皮尔斯 拉尔夫·费因斯",
+      "area": "美国",
+      "genre": "战争",
+      "episodes": "131",
+      "desc": "战争中的微妙人性与英勇决绝"
+    },
+    {
+      "title": "鬼影",
+      "year": "2004",
+      "cid": "v8vd4y9td09bv4n",
+      "actors": "阿南达·爱华灵咸 娜特慧兰 Achita Sikamana Unnop Chanpaibool",
+      "area": "泰国",
+      "genre": "恐怖",
+      "episodes": "93",
+      "desc": "情侣撞人后逃逸遇怪事"
+    },
+    {
+      "title": "阿凡达3",
+      "year": "2025",
+      "cid": "mzc00200hina79f",
+      "actors": "萨姆·沃辛顿 佐伊·索尔达娜 西格妮·韦弗 史蒂芬·朗 奥娜·卓别林 大卫·休里斯 凯特·温斯莱特 贝利·巴斯 吉奥瓦尼·瑞比西 杰梅奈·克莱门特 杰米·福雷特斯 埃迪·法可 克利夫·柯蒂斯 乔·大卫·摩尔 杰克·尚皮永 马特·杰拉德 科斯顿·约翰 菲利普·盖廖 布里坦·道尔顿 特里尼蒂·布利斯 小杜安·埃文斯",
+      "area": "美国",
+      "genre": "科幻",
+      "episodes": "",
+      "desc": "詹姆斯·卡梅隆再造视听奇观"
+    },
+    {
+      "title": "画江湖之灵主",
+      "year": "2026",
+      "cid": "mzc00200jmfob2o",
+      "actors": "郑业成 李艺彤 孙泽源 吕小雨 何中华",
+      "area": "内地",
+      "genre": "古装",
+      "episodes": "",
+      "desc": "国漫IP回归江湖重启"
+    },
+    {
+      "title": "江湖",
+      "year": "2004",
+      "cid": "97vk2sla8at2xzj",
+      "actors": "刘德华 张学友 余文乐 陈冠希 吴倩莲",
+      "area": "中国香港",
+      "genre": "动作",
+      "episodes": "78",
+      "desc": "刘德华张学友江湖豪情"
+    },
+    {
+      "title": "特工008",
+      "year": "2008",
+      "cid": "8fug3b3u6gttbba",
+      "actors": "奥莉加·法捷耶娃 弗拉基米尔·叶皮凡采夫 谢尔盖·阿斯塔霍夫",
+      "area": "俄罗斯",
+      "genre": "动作",
+      "episodes": "107",
+      "desc": "情报局特工颠覆政府"
+    },
+    {
+      "title": "情人",
+      "year": "1992",
+      "cid": "ghv8xz1u0sgn5wv",
+      "actors": "珍·玛奇 梁家辉 Arnaud Giovaninetti Frédérique Meininger",
+      "area": "法国",
+      "genre": "爱情",
+      "episodes": "93",
+      "desc": "富豪大叔与早熟少女"
+    },
+    {
+      "title": "爸爸去哪儿",
+      "year": "2014",
+      "cid": "eycwyfoh6pw2ju1",
+      "actors": "林志颖 小小志 郭涛 郭子睿 王岳伦 王诗龄 田亮 田雨橙 张亮 张悦轩",
+      "area": "内地",
+      "genre": "儿童",
+      "episodes": "90",
+      "desc": "酷爸勇闯蛇窝吓软腿"
+    },
+    {
+      "title": "再喊一声爹娘",
+      "year": "2016",
+      "cid": "z6sb6jweiwl6rpb",
+      "actors": "柏青 谢源 赵毅维 王长虹 田一希",
+      "area": "内地",
+      "genre": "剧情",
+      "episodes": "92",
+      "desc": "女无情离去，父亲含泪逝去"
+    },
+    {
+      "title": "神秘世界历险记4",
+      "year": "2018",
+      "cid": "bzhzppxdqsv6sr0",
+      "actors": "",
+      "area": "内地",
+      "genre": "动画",
+      "episodes": "",
+      "desc": "神秘世界秘境寻踪"
+    },
+    {
+      "title": "少林叛徒",
+      "year": "1977",
+      "cid": "zs00407pub6w7n6",
+      "actors": "张翼 黄家达 龙飞 川原 上官灵凤",
+      "area": "中国台湾",
+      "genre": "动作",
+      "episodes": "90",
+      "desc": "雍正和少林寺密闻"
+    },
+    {
+      "title": "整容日记",
+      "year": "2014",
+      "cid": "aw5x0yrons77ng1",
+      "actors": "白百何 郑中基 张瑶 郭京飞",
+      "area": "内地",
+      "genre": "喜剧",
+      "episodes": "84",
+      "desc": "白百何为爱踏上整容不归路"
+    },
+    {
+      "title": "女高怪谈3：狐狸阶梯",
+      "year": "2003",
+      "cid": "uwd1kbgffe3eq15",
+      "actors": "宋智孝 朴韩星 赵安 郭智敏 朴志妍 洪秀儿",
+      "area": "韩国",
+      "genre": "恐怖",
+      "episodes": "97",
+      "desc": "着了魔法的楼梯"
+    },
+    {
+      "title": "山海经之小人国",
+      "year": "2018",
+      "cid": "mzc00200mnqbh32",
+      "actors": "",
+      "area": "内地",
+      "genre": "动画",
+      "episodes": "",
+      "desc": "小人国王子大冒险"
+    },
+    {
+      "title": "《热辣滚烫》幕后纪实：我只活一次",
+      "year": "2024",
+      "cid": "mzc00200iqzr16j",
+      "actors": "贾玲 雷佳音 张小斐 杨紫 沙溢",
+      "area": "内地",
+      "genre": "纪录片",
+      "episodes": "",
+      "desc": "赢一次！贾玲蜕变全过程"
+    },
+    {
+      "title": "五台山奇情",
+      "year": "1989",
+      "cid": "e04k8j8aso5wzv5",
+      "actors": "董洪林 王建军 江庚辰 刘长生 王秀萍",
+      "area": "内地",
+      "genre": "古装",
+      "episodes": "",
+      "desc": "康熙私生子的一生"
+    },
+    {
+      "title": "神话继续",
+      "year": "2025",
+      "cid": "mzc00200eud1hc1",
+      "actors": "黄渤 于适 那尔那茜 陈牧驰 费翔 娜然 吴兴国 韩鹏翼 此沙 武亚凡 夏雨 僧格仁钦 艾力江·库尔班 张艺泷 那音太 陈坤 李雪健 黄曦彦 李昀锐 冯绍峰 刘潮 常春晓 其勒木格",
+      "area": "内地",
+      "genre": "纪录片",
+      "episodes": "",
+      "desc": "《封神第二部》幕后记录"
+    },
+    {
+      "title": "洛克王国4：出发！巨人谷",
+      "year": "2015",
+      "cid": "yeat13ms5olsqv0",
+      "actors": "",
+      "area": "内地",
+      "genre": "动画",
+      "episodes": "83",
+      "desc": "恩佐突袭巨人谷树人苏醒"
+    },
+    {
+      "title": "功夫战斗机",
+      "year": "2013",
+      "cid": "gf4kzriiksqjdba",
+      "actors": "陈天星 柳海龙",
+      "area": "内地",
+      "genre": "动作",
+      "episodes": "98",
+      "desc": "动作电影明星成功之路"
+    },
+    {
+      "title": "倒霉特工熊",
+      "year": "2017",
+      "cid": "3v5ksc6jiwskqw4",
+      "actors": "",
+      "area": "内地",
+      "genre": "动画",
+      "episodes": "",
+      "desc": "倒霉熊一改呆萌展花式技能"
+    },
+    {
+      "title": "牛郎织女",
+      "year": "1963",
+      "cid": "utp7bdo94yeouuu",
+      "actors": "严凤英 黄宗毅 王少舫",
+      "area": "内地",
+      "genre": "爱情",
+      "episodes": "94",
+      "desc": "黄梅戏彩色电影"
+    },
+    {
+      "title": "桥",
+      "year": "2008",
+      "cid": "5z9gtdw6vtgh4s2",
+      "actors": "弗兰卡·波坦特 弗朗索瓦·高斯克",
+      "area": "德国",
+      "genre": "战争",
+      "episodes": "96",
+      "desc": "残酷战争下的理想青年"
+    },
+    {
+      "title": "影子爱人",
+      "year": "2012",
+      "cid": "nxszdgvlp51dfxi",
+      "actors": "张柏芝 权相佑 景甜 丁春诚 张韶涵 井柏然",
+      "area": "内地",
+      "genre": "爱情",
+      "episodes": "85",
+      "desc": "张柏芝首演双面佳人"
+    },
+    {
+      "title": "红河激浪",
+      "year": "1963",
+      "cid": "cjb0eyuh8879v9c",
+      "actors": "李明杰 杨建业 邱渝贞 葛存壮",
+      "area": "内地",
+      "genre": "战争",
+      "episodes": "98",
+      "desc": "陕北高原的游击队"
+    },
+    {
+      "title": "樱桃",
+      "year": "2012",
+      "cid": "23hefbhmnq9zebx",
+      "actors": "詹姆斯·弗兰科 阿什丽·欣肖 海瑟·格拉汉姆 戴夫·帕特尔",
+      "area": "美国",
+      "genre": "剧情",
+      "episodes": "105",
+      "desc": "少女拍色情电影改变命运"
+    },
+    {
+      "title": "《用武之地》幕后纪录片",
+      "year": "2026",
+      "cid": "mzc002004wfdf9g",
+      "actors": "肖央 齐溪 任达华 郑恺 潘斌龙",
+      "area": "内地",
+      "genre": "纪录片",
+      "episodes": "",
+      "desc": "取材境外人质真实自救经历"
+    },
+    {
+      "title": "熊猫计划之部落奇遇记",
+      "year": "2026",
+      "cid": "mzc00200k9waauc",
+      "actors": "成龙 马丽 乔杉 于洋 王影璐 张子栋 王成思 柯达 宋木子 冯满 王星 潘斌龙 于荣光 胡笑源",
+      "area": "内地",
+      "genre": "喜剧",
+      "episodes": "",
+      "desc": "熊猫成龙双国宝耍宝"
+    },
+    {
+      "title": "熊出没·重启未来",
+      "year": "2025",
+      "cid": "mzc0020000smrv0",
+      "actors": "",
+      "area": "内地",
+      "genre": "动画",
+      "episodes": "",
+      "desc": "末日科幻终章点燃新春"
+    },
+    {
+      "title": "厉鬼将映",
+      "year": "2008",
+      "cid": "2zcdm39mrcgbuxh",
+      "actors": "辰塔维·塔纳西维 Punch-Vorakarn Rojjanavatchra",
+      "area": "泰国",
+      "genre": "恐怖",
+      "episodes": "84",
+      "desc": "真事改编！电影院惊魂一夜"
+    },
+    {
+      "title": "最佳鬼友",
+      "year": "2010",
+      "cid": "5k3rypsrxy9o66i",
+      "actors": "因泰拉·贾龙珀拉",
+      "area": "泰国",
+      "genre": "喜剧",
+      "episodes": "90",
+      "desc": "洗衣机版贞子承包所有笑点"
+    },
+    {
+      "title": "暗无天日",
+      "year": "2015",
+      "cid": "wp2fr06ydlr3ce0",
+      "actors": "Dan Rickard Chris Wandell Samantha Bolter",
+      "area": "英国",
+      "genre": "惊悚",
+      "episodes": "",
+      "desc": "感染病毒丧尸疯狂扑噬"
+    },
+    {
+      "title": "塞西亚：复仇之剑",
+      "year": "2018",
+      "cid": "ta3t53odyxn886o",
+      "actors": "阿列克谢·法迪耶夫 亚历山大·库兹涅佐夫 尤里·楚里洛 拉斯塔姆·莫沙菲尔",
+      "area": "俄罗斯",
+      "genre": "动作",
+      "episodes": "",
+      "desc": "战斗民族的炫酷战争"
+    },
+    {
+      "title": "鬼4虐",
+      "year": "2008",
+      "cid": "grmowmhegobesnk",
+      "actors": "赖拉·邦雅淑 玛妮娜·甘姆雯 阿萍雅·萨库尔加伦苏 邦沙敦·宗威拉克 坎塔帕特·帕姆潘帕查拉苏克",
+      "area": "泰国",
+      "genre": "恐怖",
+      "episodes": "111",
+      "desc": "寂寞少女与陌生网友照片传情"
+    },
+    {
+      "title": "傲慢与偏见与僵尸",
+      "year": "2016",
+      "cid": "xsx4ut93brmkj8u",
+      "actors": "莉莉·詹姆斯 萨姆·赖利 贝拉·希思科特 道格拉斯·布斯 苏琪·沃特豪斯 杰克·休斯顿 马特·史密斯 琳娜·海蒂",
+      "area": "美国",
+      "genre": "动作",
+      "episodes": "98",
+      "desc": "“灰姑娘”开挂秒杀行尸走肉"
+    },
+    {
+      "title": "鬼三惊",
+      "year": "2012",
+      "cid": "uvo4jdix473pj7m",
+      "actors": "霍嘉丝·芝华顾 查克利·彦纳姆 雷·麦克唐纳 彼得·奈特",
+      "area": "泰国",
+      "genre": "惊悚",
+      "episodes": "95",
+      "desc": "新婚夫妻一夜变僵尸"
+    },
+    {
+      "title": "等你追我",
+      "year": "2014",
+      "cid": "q59161hbid61imd",
+      "actors": "颜丹晨 邵峰 杨大鹏 顾易浩",
+      "area": "内地",
+      "genre": "喜剧",
+      "episodes": "91",
+      "desc": "型男博士恋上傲娇女"
+    },
+    {
+      "title": "举起手来2：追击阿多丸号",
+      "year": "2010",
+      "cid": "2m5reall3p0yj8r",
+      "actors": "潘长江 郭达 刘薇",
+      "area": "内地",
+      "genre": "喜剧",
+      "episodes": "0",
+      "desc": "潘长江爆笑大作"
+    },
+    {
+      "title": "摇滚藏獒",
+      "year": "2016",
+      "cid": "2yo4bb26wiq9l6x",
+      "actors": "冯小刚 郭德纲 郭麒麟 于谦 郑钧",
+      "area": "内地",
+      "genre": "动画",
+      "episodes": "",
+      "desc": "郑钧同名原著漫画改编"
+    },
+    {
+      "title": "卷席筒2",
+      "year": "1985",
+      "cid": "a22kgiagv6m573g",
+      "actors": "海连池 董秀娟 王克丽 吴自立 成光星",
+      "area": "内地",
+      "genre": "古装",
+      "episodes": "68",
+      "desc": "曹保山金榜得中平反冤案"
+    },
+    {
+      "title": "鬼灭之刃：无限城篇 第一章 猗窝座再袭",
+      "year": "2025",
+      "cid": "mzc002002pyi2lv",
+      "actors": "",
+      "area": "日本",
+      "genre": "动画",
+      "episodes": "",
+      "desc": "全球现象级动画IP剧场版"
+    },
+    {
+      "title": "名侦探柯南：零的执行人",
+      "year": "2018",
+      "cid": "8f57gnkxwj5trnq",
+      "actors": "",
+      "area": "日本",
+      "genre": "动画",
+      "episodes": "",
+      "desc": "推理版“速度与激情”超过瘾"
+    },
+    {
+      "title": "功夫瑜伽",
+      "year": "2017",
+      "cid": "cmv67rzhrf5s5r3",
+      "actors": "成龙 李治廷 张艺兴 母其弥雅 张国立",
+      "area": "内地",
+      "genre": "喜剧",
+      "episodes": "",
+      "desc": "成龙上演宝莱坞style"
+    },
+    {
+      "title": "错过了，遗憾吗？",
+      "year": "2026",
+      "cid": "mzc00200g2dvhx6",
+      "actors": "庄达菲 王安宇 白客 敖子逸 赵佳丽 周澄奥",
+      "area": "内地",
+      "genre": "爱情",
+      "episodes": "",
+      "desc": "断崖分手后的失恋秀"
+    },
+    {
+      "title": "一切如你",
+      "year": "2019",
+      "cid": "luvp0xqkyxgzvgu",
+      "actors": "于蓝 于洋 秦怡 田华 谢芳 牛犇 刘江 杨静 管宗祥 许还山 张勇手 雷恪生 彭玉 李明启 吕中 郑毓芝",
+      "area": "内地",
+      "genre": "家庭",
+      "episodes": "",
+      "desc": "四位年轻导演十个温暖故事"
+    },
+    {
+      "title": "嫌疑人之长夜将尽",
+      "year": "2021",
+      "cid": "mzc00200mbkh5o2",
+      "actors": "屠桀 匡牧野 王迅 倪大红 王劲松",
+      "area": "内地",
+      "genre": "犯罪",
+      "episodes": "",
+      "desc": "超强记忆警官破案中案"
+    },
+    {
+      "title": "三毛流浪记",
+      "year": "1984",
+      "cid": "tp8qwuc6gxpb84d",
+      "actors": "",
+      "area": "内地",
+      "genre": "动画",
+      "episodes": "39",
+      "desc": "经典三毛故事"
+    },
+    {
+      "title": "激浪青春",
+      "year": "2014",
+      "cid": "eyjdky1qvkvkuzc",
+      "actors": "陈乔恩 黄晓明 黄轩 董璇 曾志伟",
+      "area": "内地",
+      "genre": "爱情",
+      "episodes": "93",
+      "desc": "陈乔恩黄晓明谈情说爱"
+    },
+    {
+      "title": "诡八楼",
+      "year": "2014",
+      "cid": "65w286u1fwer2fc",
+      "actors": "包小柏 倪景阳",
+      "area": "内地",
+      "genre": "惊悚",
+      "episodes": "88",
+      "desc": "“北京四大鬼宅”之一的诡异传说"
+    },
+    {
+      "title": "太空一号",
+      "year": "2012",
+      "cid": "nvgborp17w45i9c",
+      "actors": "盖·皮尔斯 玛姬·格蕾斯 彼得·斯特曼 连尼·詹姆斯",
+      "area": "美国",
+      "genre": "动作",
+      "episodes": "96",
+      "desc": "太空版飓风营救"
+    },
+    {
+      "title": "人狼大战",
+      "year": "2012",
+      "cid": "wwovcwgd0ktt5lq",
+      "actors": "连姆·尼森 达拉斯·罗伯特斯 詹姆斯·贝吉·戴尔 德蒙特·莫罗尼 弗兰克·格里罗",
+      "area": "美国",
+      "genre": "动作",
+      "episodes": "117",
+      "desc": "连姆尼森荒野求生"
+    },
+    {
+      "title": "《西游·降魔篇》纪录片",
+      "year": "2013",
+      "cid": "80zwdck30u9iomk",
+      "actors": "黄渤 文章 舒淇 罗志祥 周星驰 周秀娜 杨迪 李尚正 谢晶晶 释彦能 唐艺昕",
+      "area": "内地",
+      "genre": "纪录片",
+      "episodes": "",
+      "desc": "星爷非常人般幕后故事"
+    },
+    {
+      "title": "钢铁飞龙之奥特曼崛起",
+      "year": "2019",
+      "cid": "380idj4s3fxn1mz",
+      "actors": "",
+      "area": "内地",
+      "genre": "动画",
+      "episodes": "",
+      "desc": "小正太与奥特曼携手拯救地球"
+    },
+    {
+      "title": "安德的游戏",
+      "year": "2013",
+      "cid": "pgsr8fnw41jsght",
+      "actors": "阿沙·巴特菲尔德 哈里森·福特 海莉·斯坦菲尔德 阿比吉尔·布莱斯林",
+      "area": "美国",
+      "genre": "动作",
+      "episodes": "114",
+      "desc": "正太萝莉战太空"
+    },
+    {
+      "title": "幸福额度",
+      "year": "2011",
+      "cid": "7yaz88xjbw8sxlk",
+      "actors": "林志玲 陈坤 廖凡",
+      "area": "内地",
+      "genre": "爱情",
+      "episodes": "94",
+      "desc": "林志玲陈坤爱无罪"
+    },
+    {
+      "title": "细思极恐",
+      "year": "2018",
+      "cid": "ia95960ibzdqly9",
+      "actors": "咸素媛 蓝波 庞贝童 曹菡 徐子力",
+      "area": "内地",
+      "genre": "惊悚",
+      "episodes": "",
+      "desc": "改编自香港高街死亡车库事件"
+    },
+    {
+      "title": "最近的远方",
+      "year": "2024",
+      "cid": "mzc00200k1xbav9",
+      "actors": "周瑞东 孙丹梓",
+      "area": "内地",
+      "genre": "剧情",
+      "episodes": "",
+      "desc": "历时三年拍摄的诗意电影"
+    },
+    {
+      "title": "率性而活",
+      "year": "2007",
+      "cid": "dv2yno3niuuh53f",
+      "actors": "孙秉浩 李汉威 郑在泳 林志恩 李英恩",
+      "area": "韩国",
+      "genre": "喜剧",
+      "episodes": "99",
+      "desc": "率性而活vs认真生活"
+    },
+    {
+      "title": "忘年恋曲",
+      "year": "2013",
+      "cid": "p737yd1md0l66vj",
+      "actors": "娜奥米·沃茨 罗宾·怀特 本·门德尔森 泽维尔·塞缪尔 苏菲·露",
+      "area": "法国",
+      "genre": "剧情",
+      "episodes": "2",
+      "desc": "影后情迷小鲜肉上演不伦恋"
+    },
+    {
+      "title": "极速天使",
+      "year": "2011",
+      "cid": "bwbowk7ljp08z73",
+      "actors": "韩在硕 张柏芝 林志颖 汤唯 刘若英",
+      "area": "内地",
+      "genre": "动作",
+      "episodes": "117",
+      "desc": "张柏芝汤唯同飙车"
+    },
+    {
+      "title": "复仇的怒火",
+      "year": "1997",
+      "cid": "i9q0ov64uyphpba",
+      "actors": "Olivier Gruner John Ritter Robert Culp",
+      "area": "美国",
+      "genre": "动作",
+      "episodes": "",
+      "desc": "超过瘾的复仇电影"
+    },
+    {
+      "title": "封神第二部：战火西岐",
+      "year": "2025",
+      "cid": "mzc00200cdhzib9",
+      "actors": "黄渤 于适 那尔那茜 陈牧驰 费翔 娜然 吴兴国 韩鹏翼 此沙 武亚凡 夏雨 僧格仁钦 艾力江·库尔班 张艺泷 那音太 陈坤 李雪健 黄曦彦 李昀锐 冯绍峰 刘潮 常春晓 其勒木格",
+      "area": "内地",
+      "genre": "奇幻",
+      "episodes": "",
+      "desc": "西岐殷商集结开战"
+    },
+    {
+      "title": "麦兜响当当",
+      "year": "2009",
+      "cid": "qlu0o50zscmskl1",
+      "actors": "",
+      "area": "内地",
+      "genre": "动画",
+      "episodes": "",
+      "desc": "善良麦兜萌化人心"
+    },
+    {
+      "title": "暹罗之战",
+      "year": "2015",
+      "cid": "ug0v89tz75l6quj",
+      "actors": "Thai Anh Bui Thira Chutikul Thanawut Ketsaro",
+      "area": "泰国",
+      "genre": "动作",
+      "episodes": "",
+      "desc": "英豪集结狼性征战铁血出征"
+    },
+    {
+      "title": "钢铁飞龙之再见奥特曼",
+      "year": "2017",
+      "cid": "ggaq10nuimpw3u8",
+      "actors": "",
+      "area": "内地",
+      "genre": "动画",
+      "episodes": "",
+      "desc": "大张伟爆笑配音维护地球和平"
+    },
+    {
+      "title": "多此一女",
+      "year": "1990",
+      "cid": "s2c3bwd9sfbyt2x",
+      "actors": "黄达亮 牛彝 倪媛媛 黄民胜",
+      "area": "内地",
+      "genre": "剧情",
+      "episodes": "89",
+      "desc": "爸妈离婚女儿成了多余"
+    },
+    {
+      "title": "赤警威龙",
+      "year": "2012",
+      "cid": "ofowcngdvx2beyr",
+      "actors": "西尔维斯特·史泰龙 成康 杰森·莫玛 阿德沃尔·阿吉纽依-艾格拜吉 克里斯汀·史莱特",
+      "area": "美国",
+      "genre": "动作",
+      "episodes": "87",
+      "desc": "史泰龙雄风依旧"
+    },
+    {
+      "title": "魔胎",
+      "year": "2016",
+      "cid": "mzc00200042igtw",
+      "actors": "李健仁 陈国权",
+      "area": "内地",
+      "genre": "惊悚",
+      "episodes": "66",
+      "desc": "人鬼情未了"
+    },
+    {
+      "title": "盗墓风云",
+      "year": "2015",
+      "cid": "kb3tukhennfq9fz",
+      "actors": "释小虎 陈之辉 姚雨鑫",
+      "area": "内地",
+      "genre": "动作",
+      "episodes": "77",
+      "desc": "少林小鲜肉对抗日本鬼子"
+    },
+    {
+      "title": "麦兜当当伴我心",
+      "year": "2012",
+      "cid": "i52x27fwjoshix5",
+      "actors": "",
+      "area": "中国香港",
+      "genre": "动画",
+      "episodes": "76",
+      "desc": "麦兜合唱团囧事"
+    },
+    {
+      "title": "我是谁：没有绝对安全的系统",
+      "year": "2014",
+      "cid": "mtkp03xoh95iijk",
+      "actors": "埃利亚斯·穆巴里克 汤姆·希林 汉娜·赫斯普朗 崔娜·蒂虹 沃坦·维尔克·默林",
+      "area": "德国",
+      "genre": "惊悚",
+      "episodes": "91",
+      "desc": "天才少年搅动黑客世界"
+    },
+    {
+      "title": "异形复活",
+      "year": "2003",
+      "cid": "p6zpejgmkq6jzwd",
+      "actors": "罗伯·莫吉威尔 艾瑞娜·约瑟夫 大卫·邦斯",
+      "area": "美国",
+      "genre": "科幻",
+      "episodes": "",
+      "desc": "巨型食肉蜘蛛的死亡威胁"
+    },
+    {
+      "title": "第三种爱情",
+      "year": "2015",
+      "cid": "db2e4g0eyqrenbn",
+      "actors": "刘亦菲 宋承宪 欧弟 江语晨",
+      "area": "内地",
+      "genre": "爱情",
+      "episodes": "114",
+      "desc": "刘亦菲宋承宪演绎最纠结爱恋"
+    },
+    {
+      "title": "惊蛰无声",
+      "year": "2026",
+      "cid": "mzc00200rv2fq4n",
+      "actors": "易烊千玺 朱一龙 宋佳 雷佳音 杨幂 张译 刘诗诗 时代少年团刘耀文",
+      "area": "内地",
+      "genre": "犯罪",
+      "episodes": "",
+      "desc": "张艺谋全明星阵容新作"
+    },
+    {
+      "title": "憨爸",
+      "year": "2016",
+      "cid": "57nm6d2qi5idci8",
+      "actors": "陈强华 陈若晗 蒋德亮 张艺儿 冯惠",
+      "area": "内地",
+      "genre": "儿童",
+      "episodes": "87",
+      "desc": "平凡路上千里寻亲"
+    },
+    {
+      "title": "黄土地",
+      "year": "1984",
+      "cid": "0lktnrhovr8f0gk",
+      "actors": "薛白 王学圻 谭讬 刘强",
+      "area": "内地",
+      "genre": "音乐",
+      "episodes": "89",
+      "desc": "陈凯歌的心 张艺谋的眼"
+    },
+    {
+      "title": "地下室惊魂",
+      "year": "2012",
+      "cid": "wug80k6a0j71tu0",
+      "actors": "余少群 何杜娟 马敬涵",
+      "area": "内地",
+      "genre": "悬疑",
+      "episodes": "89",
+      "desc": "余少群人格分裂"
+    },
+    {
+      "title": "倩女幽魂",
+      "year": "1987",
+      "cid": "ifkyvtji4a4a5hl",
+      "actors": "张国荣 王祖贤 午马 刘兆铭 林威",
+      "area": "中国香港",
+      "genre": "爱情",
+      "episodes": "96",
+      "desc": "张国荣王祖贤经典CP"
+    },
+    {
+      "title": "澎湖海战",
+      "year": "2026",
+      "cid": "mzc00200vih2zsi",
+      "actors": "王学圻 杜江 易烊千玺 侯雯元 罗一舟 耿乐 倪大红 韩童生 胡明 马京京 王子宸 答有为",
+      "area": "内地",
+      "genre": "历史",
+      "episodes": "",
+      "desc": "统一台湾，势不可挡！"
+    },
+    {
+      "title": "白色：诅咒的旋律",
+      "year": "2011",
+      "cid": "cslcjv89els9po8",
+      "actors": "黄雨瑟惠 咸恩静 金美达妮 崔雅拉 李灿英",
+      "area": "韩国",
+      "genre": "恐怖",
+      "episodes": "102",
+      "desc": "神曲引发的血案"
+    },
+    {
+      "title": "玉面威龙",
+      "year": "2015",
+      "cid": "8uxaxjscnwcc256",
+      "actors": "姚雨鑫 释彦能 周斌 贾琳",
+      "area": "内地",
+      "genre": "动作",
+      "episodes": "75",
+      "desc": "退伍小鲜肉激战江湖大哥"
+    },
+    {
+      "title": "痛击",
+      "year": "2010",
+      "cid": "hqbqtb966bky4y9",
+      "actors": "伊尔凡·可汗 桑杰·达特 乔伊·安沙 康格娜·拉瑙特 古山·格罗维",
+      "area": "印度",
+      "genre": "动作",
+      "episodes": "115",
+      "desc": "印度反腐版狙击电话亭"
+    },
+    {
+      "title": "洛克王国2：圣龙的心愿",
+      "year": "2013",
+      "cid": "z7qjln7866fe4mp",
+      "actors": "",
+      "area": "内地",
+      "genre": "动画",
+      "episodes": "86",
+      "desc": "寻找精灵王之旅"
+    },
+    {
+      "title": "猫和老鼠:绿野仙踪",
+      "year": "2011",
+      "cid": "49bje65es1laii7",
+      "actors": "",
+      "area": "美国",
+      "genre": "动画",
+      "episodes": "",
+      "desc": "冤家搭档寻找巫师惊险之旅"
+    },
+    {
+      "title": "新警察故事",
+      "year": "2004",
+      "cid": "h4f14pcuhisqvzk",
+      "actors": "成龙 谢霆锋 杨采妮 蔡卓妍 吴彦祖",
+      "area": "中国香港",
+      "genre": "动作",
+      "episodes": "123",
+      "desc": "成龙遭富二代组团狂虐"
+    },
+    {
+      "title": "扫恶",
+      "year": "2026",
+      "cid": "mzc00200lyil77j",
+      "actors": "潘斌龙 包贝尔 赵润南 克拉拉 释小龙",
+      "area": "内地",
+      "genre": "动作",
+      "episodes": "",
+      "desc": "潘斌龙包贝尔警匪斗狠"
+    },
+    {
+      "title": "超级兵王混农村2古墓传说",
+      "year": "2016",
+      "cid": "rn99bl5zqhd3doc",
+      "actors": "宋星妍 杜晓帆 赵煜 刘凌凌",
+      "area": "内地",
+      "genre": "动作",
+      "episodes": "88",
+      "desc": "古墓迷情兵王再战东洋妖女"
+    },
+    {
+      "title": "潘纳里的使命",
+      "year": "2016",
+      "cid": "1s638ya3vs8wrdp",
+      "actors": "玛利亚·瓦沃德 赫拉多·塔拉塞纳 特诺切·韦尔塔 乔迪·卡巴勒罗 加拉德·塔拉塞纳",
+      "area": "墨西哥",
+      "genre": "剧情",
+      "episodes": "",
+      "desc": "印第安人反抗斗争"
+    },
+    {
+      "title": "直立象传说",
+      "year": "2019",
+      "cid": "mzc002001jdtw8c",
+      "actors": "",
+      "area": "新西兰",
+      "genre": "动画",
+      "episodes": "",
+      "desc": "中新首部合拍动画超期待！"
+    },
+    {
+      "title": "燃烧",
+      "year": "2013",
+      "cid": "ye5d39ow0nj0i4j",
+      "actors": "阿莱克斯·冈萨雷兹 阿德丽安娜·尤加特 阿尔贝托·阿曼",
+      "area": "西班牙",
+      "genre": "动作",
+      "episodes": "101",
+      "desc": "西班牙版“速度与激情”"
+    },
+    {
+      "title": "人鬼情未了",
+      "year": "2010",
+      "cid": "q4mf5f0kamdwbg5",
+      "actors": "宋承宪 松岛菜菜子 树木希林 芦田爱菜 铃木砂羽",
+      "area": "日本",
+      "genre": "爱情",
+      "episodes": "111",
+      "desc": "宋承宪致命美颜诱惑"
+    },
+    {
+      "title": "边境迷雾",
+      "year": "2018",
+      "cid": "mzc00200pybax6w",
+      "actors": "谢尔盖·奇尔科夫 亚历山大·索科洛夫斯基 叶卡婕琳娜·谢·瓦西利耶娃 伊戈尔·别特连科 帕维尔·普里卢茨内",
+      "area": "俄罗斯",
+      "genre": "科幻",
+      "episodes": "",
+      "desc": "穿越时空重返二战"
+    },
+    {
+      "title": "天若有情",
+      "year": "1992",
+      "cid": "kvo90rwgbg5een4",
+      "actors": "倪媛媛 赵奎娥 王力民",
+      "area": "内地",
+      "genre": "剧情",
+      "episodes": "",
+      "desc": "拥有大爱的人"
+    },
+    {
+      "title": "丁龙镇",
+      "year": "1978",
+      "cid": "m6pe86m5dqgoorf",
+      "actors": "韩炳杰 关长珠 邱渝贞 李兆明",
+      "area": "内地",
+      "genre": "战争",
+      "episodes": "",
+      "desc": "危急时刻共存亡"
+    },
+    {
+      "title": "最佳嫌疑人",
+      "year": "2014",
+      "cid": "f78xrzthkcdut87",
+      "actors": "苏有朋 陈乔恩 林俊贤 洪晓熙 刘桦",
+      "area": "内地",
+      "genre": "喜剧",
+      "episodes": "99",
+      "desc": "独家配方引最佳嫌疑人"
+    },
+    {
+      "title": "海浪",
+      "year": "2015",
+      "cid": "4c8734ac8p7upgj",
+      "actors": "克里斯托弗·琼勒 托玛斯·博·拉森 弗里迪夫·梭哈姆 安妮·达尔·托普",
+      "area": "挪威",
+      "genre": "灾难",
+      "episodes": "",
+      "desc": "80米巨浪直扑而来"
+    },
+    {
+      "title": "安东尼娅家族",
+      "year": "1995",
+      "cid": "3qf2r98sr9wjqiu",
+      "actors": "维力奇·范·阿麦莱 埃尔斯·多特曼斯 多拉·范·德·格伦",
+      "area": "比利时",
+      "genre": "喜剧",
+      "episodes": "97",
+      "desc": "超现实魔幻色彩女性史诗"
+    },
+    {
+      "title": "球爱可人儿",
+      "year": "2006",
+      "cid": "c6a0e832f3hvtxc",
+      "actors": "查宁·塔图姆 劳拉·莱姆希 阿曼达·贝尼斯 罗伯特·霍夫曼 亚历山德拉·布莱肯瑞吉",
+      "area": "美国",
+      "genre": "喜剧",
+      "episodes": "106",
+      "desc": "小萝莉扮男装圆足球梦"
+    },
+    {
+      "title": "午夜惊魂",
+      "year": "2003",
+      "cid": "emvotm7zmwfn35y",
+      "actors": "彭丹 李宗翰",
+      "area": "内地",
+      "genre": "恐怖",
+      "episodes": "90",
+      "desc": "高智商女博士断案"
+    },
+    {
+      "title": "画江湖之不良人",
+      "year": "2024",
+      "cid": "mzc0020073zgi2v",
+      "actors": "",
+      "area": "内地",
+      "genre": "动画",
+      "episodes": "",
+      "desc": "不良人院线电影！敬请期待"
+    },
+    {
+      "title": "双截棍",
+      "year": "2012",
+      "cid": "htxhh3us4742oqv",
+      "actors": "陈天星 余杨菲 赵霞 黄习恒 缪世旋",
+      "area": "内地",
+      "genre": "动作",
+      "episodes": "87",
+      "desc": "无特技硬派真功夫"
+    },
+    {
+      "title": "黑猫重案组",
+      "year": "2003",
+      "cid": "pboxsqogtmx0d5i",
+      "actors": "梁琤 卢惠光 史洪波",
+      "area": "中国香港",
+      "genre": "动作",
+      "episodes": "84",
+      "desc": "美女刑警勇闯匪窝"
+    },
+    {
+      "title": "刘巧儿",
+      "year": "1956",
+      "cid": "kjlmu7l7j6i6lfl",
+      "actors": "新凤霞 张德福 宋长文",
+      "area": "内地",
+      "genre": "爱情",
+      "episodes": "104",
+      "desc": "包办婚姻酿苦果"
+    },
+    {
+      "title": "哆啦A梦：大雄的南极冰冰凉大冒险",
+      "year": "2017",
+      "cid": "rxxukzqx79ae30o",
+      "actors": "",
+      "area": "日本",
+      "genre": "动画",
+      "episodes": "",
+      "desc": "考验友谊！真假哆啦A梦同现身"
+    },
+    {
+      "title": "中天",
+      "year": "2006",
+      "cid": "0c73kz9l6qt5e44",
+      "actors": "许峻豪 金泰希 金光一 苏怡贤 郑雨盛",
+      "area": "韩国",
+      "genre": "动作",
+      "episodes": "101",
+      "desc": "一场真爱的轮回"
+    },
+    {
+      "title": "贼性",
+      "year": "1982",
+      "cid": "umf7l70syq4f3b7",
+      "actors": "陈惠敏 王青 高飞 王伟 罗石青",
+      "area": "中国香港",
+      "genre": "犯罪",
+      "episodes": "91",
+      "desc": "贼性难改"
+    },
+    {
+      "title": "残梦",
+      "year": "2012",
+      "cid": "of9xh80wek6jlbd",
+      "actors": "杨紫婷 孙文婷 霍政谚 陈木易 午马",
+      "area": "内地",
+      "genre": "爱情",
+      "episodes": "94",
+      "desc": "情欲两生花"
+    },
+    {
+      "title": "深宅奇剑",
+      "year": "1990",
+      "cid": "nf3lykdek3tl3l2",
+      "actors": "赵克明 董山霞 赵箭",
+      "area": "内地",
+      "genre": "武侠",
+      "episodes": "88",
+      "desc": "江湖风云再起"
+    },
+    {
+      "title": "超能龙骑侠",
+      "year": "2017",
+      "cid": "4m5a0pztu6vqgxd",
+      "actors": "",
+      "area": "内地",
+      "genre": "动画",
+      "episodes": "",
+      "desc": "超能战士爱的拥抱永远不晚"
+    },
+    {
+      "title": "疾速追杀4",
+      "year": "2023",
+      "cid": "mzc00200mdkwmc8",
+      "actors": "基努·里维斯 甄子丹 伊恩·麦柯肖恩 劳伦斯·菲什伯恩 比尔·斯卡斯加德 真田广之 沙米尔·安德森 泽山璃奈 兰斯·莱迪克 克兰西·布朗 斯科特·阿金斯 马克·扎罗 娜塔丽·特纳",
+      "area": "美国",
+      "genre": "动作",
+      "episodes": "",
+      "desc": "“杀神”回归对决甄子丹"
+    },
+    {
+      "title": "红字",
+      "year": "1995",
+      "cid": "s117n02c4x3fdbg",
+      "actors": "加里·奥德曼 黛米·摩尔 罗伯特·杜瓦尔",
+      "area": "美国",
+      "genre": "爱情",
+      "episodes": "127",
+      "desc": "“不道德的”婚外情"
+    },
+    {
+      "title": "出入平安",
+      "year": "2024",
+      "cid": "mzc00200xscz58k",
+      "actors": "肖央 阿云嘎 娜扎 黄小蕾 王迅",
+      "area": "内地",
+      "genre": "灾难",
+      "episodes": "",
+      "desc": "极端灾难下的人性抉择"
+    },
+    {
+      "title": "完美的杀手",
+      "year": "2017",
+      "cid": "mzc00200ad2x0iv",
+      "actors": "若尔特·拉斯洛 塔马斯·萨博·基梅尔 杰泽·萨博 蒂博尔·采格莱德 加博尔·纳吉帕尔",
+      "area": "匈牙利",
+      "genre": "惊悚",
+      "episodes": "",
+      "desc": "机智勇猛老大叔力破奇案"
+    },
+    {
+      "title": "家",
+      "year": "2011",
+      "cid": "q5rvwcmg3b85f7j",
+      "actors": "",
+      "area": "韩国",
+      "genre": "动画",
+      "episodes": "80",
+      "desc": "每个房子都有一个灵魂"
+    },
+    {
+      "title": "F1：狂飙飞车",
+      "year": "2025",
+      "cid": "mzc002008romoo8",
+      "actors": "布拉德·皮特 戴姆森·伊德瑞斯 凯瑞·康顿 哈维尔·巴登 托比亚斯·门基斯",
+      "area": "美国",
+      "genre": "运动",
+      "episodes": "",
+      "desc": "布拉德·皮特燃擎开跑"
+    },
+    {
+      "title": "蓝盐",
+      "year": "2011",
+      "cid": "vz8h5aek4pny7m9",
+      "actors": "宋康昊 千正明 李钟赫 申世景 尹汝贞",
+      "area": "韩国",
+      "genre": "动作",
+      "episodes": "117",
+      "desc": "韩版这个杀手不太冷"
+    },
+    {
+      "title": "长江7号：超萌特攻队",
+      "year": "2015",
+      "cid": "ldrkz1apgqsqz0m",
+      "actors": "",
+      "area": "内地",
+      "genre": "动画",
+      "episodes": "77",
+      "desc": "萌宠上演星际大战"
+    },
+    {
+      "title": "虎神",
+      "year": "2014",
+      "cid": "1x49wgmnw3oepkh",
+      "actors": "Thanyaboon Boonprasert Geoffrey Giuliano Naerunchara Lertparsert Damian Mavis",
+      "area": "泰国",
+      "genre": "动作",
+      "episodes": "",
+      "desc": "猛虎出击报杀子之仇"
+    },
+    {
+      "title": "娃娃兵",
+      "year": "1989",
+      "cid": "xssfv3zorfyng9o",
+      "actors": "谷峰 徐淑媛 黄仲裕",
+      "area": "中国台湾",
+      "genre": "喜剧",
+      "episodes": "86",
+      "desc": "军队训练题材影片"
+    },
+    {
+      "title": "手牵手",
+      "year": "2012",
+      "cid": "a8ey7qxjjz1m3q4",
+      "actors": "杰瑞米·埃尔卡伊姆 薇拉莉·邓泽里 瓦莱丽·勒梅西埃 Béatrice De Staël",
+      "area": "法国",
+      "genre": "歌舞",
+      "episodes": "",
+      "desc": "鲜肉熟女的同步爱情"
+    },
+    {
+      "title": "洛克王国！圣龙骑士",
+      "year": "2011",
+      "cid": "ak2hhlfc9q60era",
+      "actors": "",
+      "area": "内地",
+      "genre": "动画",
+      "episodes": "90",
+      "desc": "寻找圣龙骑士征程"
+    },
+    {
+      "title": "暗道",
+      "year": "2016",
+      "cid": "zdhv0ceythhzhd2",
+      "actors": "吴天戈 林威 周娇",
+      "area": "内地",
+      "genre": "动作",
+      "episodes": "64",
+      "desc": "铁血怒汉只身解救被拐妇女"
+    },
+    {
+      "title": "西游记之孙悟空三打白骨精",
+      "year": "2016",
+      "cid": "wmey1i8mowpiiqu",
+      "actors": "郭富城 巩俐 冯绍峰 小沈阳",
+      "area": "内地",
+      "genre": "喜剧",
+      "episodes": "120",
+      "desc": "郭富城冯绍峰变师徒霸气出征"
+    },
+    {
+      "title": "流浪地球3(上)",
+      "year": "2027",
+      "cid": "mzc00200a4m2z36",
+      "actors": "吴京 沈腾 刘德华 李雪健 屈楚萧 李光洁 佟丽娅 赵今麦 沙溢 宁理 王智 张亦驰 隋凯 朱颜曼滋 屈菁菁 杨皓宇 杨轶 王若熹 安地 姜志刚 张欢 胡先煦 李虹辰",
+      "area": "内地",
+      "genre": "科幻",
+      "episodes": "",
+      "desc": "沈腾加盟！共赴新冒险"
+    },
+    {
+      "title": "使徒行者",
+      "year": "2016",
+      "cid": "d29dakv9k1xy9p9",
+      "actors": "张家辉 古天乐 吴镇宇 佘诗曼 许绍雄",
+      "area": "内地",
+      "genre": "动作",
+      "episodes": "110",
+      "desc": "张家辉古天乐最虐兄弟情"
+    },
+    {
+      "title": "猛龙特警之天罗地网",
+      "year": "2000",
+      "cid": "p9sg0l5q3kf3vrg",
+      "actors": "钱小豪 马雅舒 颜丙燕",
+      "area": "中国香港",
+      "genre": "动作",
+      "episodes": "89",
+      "desc": "马雅舒PK黑帮大佬"
+    },
+    {
+      "title": "鬼马功夫",
+      "year": "1978",
+      "cid": "aieab9dxhw8jzv5",
+      "actors": "汪禹 唐伟成 黄杏秀 刘家荣",
+      "area": "中国香港",
+      "genre": "动作",
+      "episodes": "",
+      "desc": "保安队捉拿江南大盗"
+    },
+    {
+      "title": "毕正明的证明",
+      "year": "2025",
+      "cid": "mzc00200kq4yxgt",
+      "actors": "王安宇 张天爱 聂远 王彦霖 冯兵 邬家楷 孔令美 黄小蕾 冯雷 石云鹏 鞭鞭于白水 生港帅 楚布花羯 师铭泽 李晓川 王超",
+      "area": "内地",
+      "genre": "犯罪",
+      "episodes": "",
+      "desc": "孤勇警察勇斗贼团"
+    },
+    {
+      "title": "星河入梦",
+      "year": "2026",
+      "cid": "mzc00200kgz5nmj",
+      "actors": "王鹤棣 宋茜 祖峰 罗海琼 汪铎",
+      "area": "内地",
+      "genre": "奇幻",
+      "episodes": "",
+      "desc": "王鹤棣宋茜共赴梦境冒险"
+    },
+    {
+      "title": "苔丝",
+      "year": "1979",
+      "cid": "wofmnuqbitd7be4",
+      "actors": "娜塔莎·金斯基 彼得·弗斯 利·劳森 苏珊娜·汉密尔顿 约翰·科林",
+      "area": "法国",
+      "genre": "爱情",
+      "episodes": "172",
+      "desc": "不恕之罪与可原之情"
+    },
+    {
+      "title": "追凶雨",
+      "year": "2016",
+      "cid": "amrwlfdjutj21uz",
+      "actors": "小栗旬 尾野真千子 野村周平 大森南朋 丸山智己",
+      "area": "日本",
+      "genre": "惊悚",
+      "episodes": "",
+      "desc": "帅警探小栗旬搏命追凶"
+    },
+    {
+      "title": "碟中谍5：神秘国度",
+      "year": "2015",
+      "cid": "5c58griiqftvq00",
+      "actors": "汤姆·克鲁斯 杰瑞米·雷纳 丽贝卡·弗格森 西蒙·佩吉 文·瑞姆斯",
+      "area": "美国",
+      "genre": "动作",
+      "episodes": "127",
+      "desc": "阿汤哥海陆空全方位开挂"
+    },
+    {
+      "title": "暗房",
+      "year": "2013",
+      "cid": "npaqyt0s5x984fy",
+      "actors": "凯莉·黛弗",
+      "area": "美国",
+      "genre": "惊悚",
+      "episodes": "81",
+      "desc": "变态家族史"
+    },
+    {
+      "title": "命运呼叫转移",
+      "year": "2007",
+      "cid": "4s0xzkaloqz06xc",
+      "actors": "徐峥 葛优 刘仪伟 范冰冰 徐帆",
+      "area": "内地",
+      "genre": "喜剧",
+      "episodes": "90",
+      "desc": "众明星演绎百态人生"
+    },
+    {
+      "title": "薰衣草",
+      "year": "2000",
+      "cid": "mzc00200oa2o4hq",
+      "actors": "金城武 陈慧琳 陈奕迅 郑佩佩 谷德昭",
+      "area": "中国香港",
+      "genre": "爱情",
+      "episodes": "",
+      "desc": "金城武演绎受伤天使"
+    },
+    {
+      "title": "大话西游之月光宝盒",
+      "year": "1995",
+      "cid": "y73nvftv7d1rqci",
+      "actors": "周星驰 吴孟达 罗家英 莫文蔚 蓝洁瑛",
+      "area": "中国香港",
+      "genre": "喜剧",
+      "episodes": "84",
+      "desc": "周星驰经典之作"
+    },
+    {
+      "title": "阔少爱贫女",
+      "year": "2014",
+      "cid": "edob8p7c94qc23u",
+      "actors": "埃文·蕾切尔·伍德 特里特·威廉斯 斯科特·斯比德曼",
+      "area": "美国",
+      "genre": "爱情",
+      "episodes": "90",
+      "desc": "现代版灰姑娘的故事"
+    },
+    {
+      "title": "十二怒汉：大审判",
+      "year": "2007",
+      "cid": "mzvkw7yed6f69qy",
+      "actors": "谢尔盖·马科韦茨基 尼基塔·米哈尔科夫 谢尔盖·加尔马什 瓦连京·佳夫特 阿列克谢·彼得连科",
+      "area": "俄罗斯",
+      "genre": "悬疑",
+      "episodes": "",
+      "desc": "一场“拆迁”引发的血案"
+    },
+    {
+      "title": "美国骗局",
+      "year": "2013",
+      "cid": "oksnoso9pnqrxn9",
+      "actors": "克里斯蒂安·贝尔 艾米·亚当斯 布莱德利·库珀 詹妮弗·劳伦斯 杰瑞米·雷纳",
+      "area": "美国",
+      "genre": "犯罪",
+      "episodes": "104",
+      "desc": "好莱坞巨星腹黑斗智"
+    },
+    {
+      "title": "候鸟",
+      "year": "2018",
+      "cid": "mzc00200d9rd5ar",
+      "actors": "娜塔利娅·雷耶斯 José Vicente",
+      "area": "哥伦比亚",
+      "genre": "惊悚",
+      "episodes": "",
+      "desc": "一代毒枭魔幻犯罪史诗"
+    },
+    {
+      "title": "不一样的天空",
+      "year": "1993",
+      "cid": "zm7em2l9f8nnyq2",
+      "actors": "约翰尼·德普 莱昂纳多·迪卡普里奥 朱丽叶特·刘易斯 玛丽·斯汀伯根 凯文·泰德",
+      "area": "美国",
+      "genre": "爱情",
+      "episodes": "118",
+      "desc": "生活混乱也有温情"
+    },
+    {
+      "title": "无价之宝",
+      "year": "2011",
+      "cid": "hfltsfgglocvkzd",
+      "actors": "张柏芝 郑中基 邵兵 刘桦 林妙可",
+      "area": "中国香港",
+      "genre": "喜剧",
+      "episodes": "95",
+      "desc": "张柏芝携子复出"
+    },
+    {
+      "title": "我想吃掉你的胰脏",
+      "year": "2018",
+      "cid": "jshhaijes6d0b50",
+      "actors": "",
+      "area": "日本",
+      "genre": "动画",
+      "episodes": "",
+      "desc": "日本纯爱治愈神作改编动画"
+    },
+    {
+      "title": "黄河在这儿拐了个弯",
+      "year": "1986",
+      "cid": "ig1xls2u9smsbys",
+      "actors": "冯恩鹤 李良涛 邬倩倩 毕福生 黄爱玲",
+      "area": "内地",
+      "genre": "剧情",
+      "episodes": "97",
+      "desc": "赵大的婚事又起波澜"
+    },
+    {
+      "title": "幽灵船",
+      "year": "2014",
+      "cid": "h72s1qg3z3fdu9v",
+      "actors": "Jennifer Stuckert Olivia Aaron Heidi Brigman",
+      "area": "美国",
+      "genre": "恐怖",
+      "episodes": "",
+      "desc": "陷入自己的地狱"
+    },
+    {
+      "title": "精武雄风",
+      "year": "2015",
+      "cid": "9ycigl90fi1r9lx",
+      "actors": "龙武 田雕侠 周岳龙",
+      "area": "内地",
+      "genre": "动作",
+      "episodes": "78",
+      "desc": "犯我兄弟者必诛之！"
+    },
+    {
+      "title": "股神3之控庄者",
+      "year": "2016",
+      "cid": "tau4kj8yq79hg5i",
+      "actors": "唐秦 朱可 小米 沙小微 徐子淇",
+      "area": "内地",
+      "genre": "剧情",
+      "episodes": "87",
+      "desc": "新时代的股票交易战"
+    },
+    {
+      "title": "九龙滩",
+      "year": "1978",
+      "cid": "m3g20087l3yqtpe",
+      "actors": "郑大年 王治 高扬 宋爱武",
+      "area": "内地",
+      "genre": "剧情",
+      "episodes": "96",
+      "desc": "经典解放战争电影"
+    },
+    {
+      "title": "破坏之王",
+      "year": "1994",
+      "cid": "noxobz6rfhp2qqk",
+      "actors": "周星驰 吴孟达 钟丽缇 林国斌 李力持",
+      "area": "中国香港",
+      "genre": "喜剧",
+      "episodes": "93",
+      "desc": "周星驰猛追钟丽缇"
+    },
+    {
+      "title": "铁血战士2",
+      "year": "1990",
+      "cid": "imud0yu9mnmw7um",
+      "actors": "丹尼·格洛弗 加里·布塞 凯文·彼得·豪尔 卢宾·布雷兹 玛利亚·康柯塔·阿隆索",
+      "area": "美国",
+      "genre": "动作",
+      "episodes": "103",
+      "desc": "再见“异形之父”"
+    },
+    {
+      "title": "外遇游戏",
+      "year": "2001",
+      "cid": "vaqmbgutprksizr",
+      "actors": "娜塔莎·金斯基 杰夫·法赫 乔什·哈洛威",
+      "area": "美国",
+      "genre": "爱情",
+      "episodes": "87",
+      "desc": "危险的婚外情"
+    },
+    {
+      "title": "终极大冒险",
+      "year": "2013",
+      "cid": "0pdfc8v4foatx4r",
+      "actors": "",
+      "area": "内地",
+      "genre": "动画",
+      "episodes": "1",
+      "desc": "动画版杜拉拉升职记"
+    },
+    {
+      "title": "黑蝴蝶",
+      "year": "2017",
+      "cid": "z0iv0rk5kp3d304",
+      "actors": "乔纳森·莱斯·梅耶斯 派珀·佩拉博 安东尼奥·班德拉斯 阿贝尔·费拉拉",
+      "area": "美国",
+      "genre": "惊悚",
+      "episodes": "",
+      "desc": "流浪汉不为人知的秘密"
+    },
+    {
+      "title": "女子大乱斗",
+      "year": "2009",
+      "cid": "oblmh1gmfw5slgp",
+      "actors": "露西·劳莱丝 凯文·索伯 蕾妮·奥康纳 阿美莉嘉·奥利沃",
+      "area": "美国",
+      "genre": "动作",
+      "episodes": "95",
+      "desc": "蛇蝎美女沙漠夺宝"
+    },
+    {
+      "title": "悭钱家族",
+      "year": "2002",
+      "cid": "uij2masi8ougdvt",
+      "actors": "杨千嬅 陈奕迅 郑裕玲 曾志伟 黎耀祥",
+      "area": "中国香港",
+      "genre": "喜剧",
+      "episodes": "101",
+      "desc": "一家老小向钱冲"
+    },
+    {
+      "title": "办公室",
+      "year": "2015",
+      "cid": "6yhfdu3a88f3trh",
+      "actors": "高雅星 裴晟祐 金义城 柳贤京",
+      "area": "韩国",
+      "genre": "惊悚",
+      "episodes": "106",
+      "desc": "办公室连环杀人事件"
+    },
+    {
+      "title": "玫瑰人生",
+      "year": "2007",
+      "cid": "576tfkhbk91ixb4",
+      "actors": "玛丽昂·歌迪亚 西尔薇·泰斯图德 帕斯卡尔·格雷戈里 艾玛纽尔·塞尼耶 让-保罗·卢弗",
+      "area": "法国",
+      "genre": "爱情",
+      "episodes": "",
+      "desc": "恣意而活的优雅"
+    },
+    {
+      "title": "迪士尼动画电影嘉年华",
+      "year": "2021",
+      "cid": "mzc00200fe1qk79",
+      "actors": "",
+      "area": "内地",
+      "genre": "动画",
+      "episodes": "",
+      "desc": "重回梦开始的地方"
+    },
+    {
+      "title": "我的战争",
+      "year": "2016",
+      "cid": "7cba07786d7p3sa",
+      "actors": "王珞丹 刘烨 黄志忠 杨祐宁 叶青",
+      "area": "内地",
+      "genre": "历史",
+      "episodes": "121",
+      "desc": "刘烨率铁血军团抗美援朝"
+    },
+    {
+      "title": "犬心犬意",
+      "year": "2016",
+      "cid": "2y9py5xtvzvsuv6",
+      "actors": "张佳 周天保 侯奕辰",
+      "area": "内地",
+      "genre": "喜剧",
+      "episodes": "63",
+      "desc": "萌犬云集high翻眼球"
+    },
+    {
+      "title": "伴我同行",
+      "year": "1986",
+      "cid": "hbmxalfnpfxkcy9",
+      "actors": "瑞弗·菲尼克斯 威尔·惠顿 基弗·萨瑟兰 理查德·德莱福斯 约翰·库萨克",
+      "area": "美国",
+      "genre": "喜剧",
+      "episodes": "89",
+      "desc": "坏孩子的友谊万岁"
+    },
+    {
+      "title": "鼠疫屠城",
+      "year": "2001",
+      "cid": "b174hdefnhjonyl",
+      "actors": "拉尔夫·赫尔福特 Anne Cathrin Buhtz 克里斯蒂安·卡赫曼",
+      "area": "捷克",
+      "genre": "动作",
+      "episodes": "",
+      "desc": "医生独闯鼠穴灭鼠灾"
+    },
+    {
+      "title": "守护者：世纪战元",
+      "year": "2017",
+      "cid": "zbo2vej51pujoev",
+      "actors": "塞巴斯蒂安·斯萨克 艾琳娜·拉尼娜 安东·庞布施尼 瓦谢斯拉夫·拉贝戈耶夫 桑扎尔·马季耶夫",
+      "area": "俄罗斯",
+      "genre": "动作",
+      "episodes": "",
+      "desc": "俄罗斯版复仇者联盟"
+    },
+    {
+      "title": "寻凶诀",
+      "year": "2015",
+      "cid": "gai8bp4by6w2rqo",
+      "actors": "陈伟琴 赖若茜",
+      "area": "内地",
+      "genre": "悬疑",
+      "episodes": "70",
+      "desc": "一首歌谣引发的血案"
+    },
+    {
+      "title": "女孩梦三十",
+      "year": "2004",
+      "cid": "pl0jnjpeqgmjjgb",
+      "actors": "詹妮弗·加纳 马克·鲁法洛 安迪·瑟金斯 朱迪·格雷尔",
+      "area": "美国",
+      "genre": "爱情",
+      "episodes": "98",
+      "desc": "13女孩一夜变30女人"
+    },
+    {
+      "title": "黑星风云",
+      "year": "1991",
+      "cid": "laflx3ccfb4obfn",
+      "actors": "刘家辉 大岛由加利 郑浩南 罗烈 李文泰",
+      "area": "中国香港",
+      "genre": "动作",
+      "episodes": "0",
+      "desc": "香港内地警方联手打击犯罪"
+    },
+    {
+      "title": "难以入眠",
+      "year": "2019",
+      "cid": "8bk4vvuu9q5kn3w",
+      "actors": "比利·赞恩 瓦妮萨·安吉尔 Fred Stoller 乔尔·波利斯 瑞克·奥托",
+      "area": "美国",
+      "genre": "喜剧",
+      "episodes": "",
+      "desc": "一个美丽寡妇的复杂生活"
+    },
+    {
+      "title": "李豁子的婚事",
+      "year": "2013",
+      "cid": "pevcqjpij4u35fc",
+      "actors": "胡希华 晋红娟 刘艳丽 孟祥礼",
+      "area": "内地",
+      "genre": "家庭",
+      "episodes": "112",
+      "desc": "旧社会的婚姻价值观"
+    },
+    {
+      "title": "森冤",
+      "year": "2007",
+      "cid": "vndhudaamqij0zp",
+      "actors": "郑伊健 舒淇 李彩桦 周俊伟",
+      "area": "中国香港",
+      "genre": "犯罪",
+      "episodes": "98",
+      "desc": "郑伊健舒淇群演香港惊悚"
+    },
+    {
+      "title": "一棵树",
+      "year": "1996",
+      "cid": "t97y16ypf7u4335",
+      "actors": "奚美娟 陈大伟",
+      "area": "内地",
+      "genre": "励志",
+      "episodes": "97",
+      "desc": "不屈不挠成就奇迹"
+    },
+    {
+      "title": "铠甲勇士捕王",
+      "year": "2016",
+      "cid": "tl7vvzap921zg7z",
+      "actors": "赖艺 王畅唱 曲澔濬",
+      "area": "内地",
+      "genre": "动画",
+      "episodes": "",
+      "desc": "穿越古今拯救人类"
+    },
+    {
+      "title": "游戏之夜",
+      "year": "2018",
+      "cid": "yzi95ypvdx561fz",
+      "actors": "杰森·贝特曼 瑞秋·麦克亚当斯 凯尔·钱德勒 莎朗·豪根 比利·马格努森",
+      "area": "美国",
+      "genre": "喜剧",
+      "episodes": "",
+      "desc": "谋杀派对弄假成真"
+    },
+    {
+      "title": "黑色之家",
+      "year": "2007",
+      "cid": "dwnn8ugrg7wry42",
+      "actors": "黄政民 姜信日 柳善 郑仁基 金瑞亨",
+      "area": "韩国",
+      "genre": "惊悚",
+      "episodes": "98",
+      "desc": "飘着血腥味道的恐惧"
+    },
+    {
+      "title": "童眼",
+      "year": "2010",
+      "cid": "foojcpwv9xwy1cf",
+      "actors": "杨丞琳 余文乐 江若琳",
+      "area": "中国香港",
+      "genre": "惊悚",
+      "episodes": "90",
+      "desc": "泰国之旅诡异失踪迷案"
+    },
+    {
+      "title": "百万巨鳄",
+      "year": "2012",
+      "cid": "5vrv0v4asw5934z",
+      "actors": "徐熙媛 郭涛 丁嘉力",
+      "area": "内地",
+      "genre": "惊悚",
+      "episodes": "90",
+      "desc": "大S郭涛联手斗怪兽"
+    },
+    {
+      "title": "神探磨辘",
+      "year": "1994",
+      "cid": "w8qu4pk3sjayo70",
+      "actors": "刘青云 吴镇宇 叶竞生 钟丽缇 伍咏薇",
+      "area": "中国香港",
+      "genre": "爱情",
+      "episodes": "97",
+      "desc": "香港经典警探片"
+    },
+    {
+      "title": "鲁滨逊漂流记",
+      "year": "2016",
+      "cid": "2sb7kijw00mc3f9",
+      "actors": "马提亚斯·施维赫夫 卡亚·叶娜尔 伊尔卡·贝桑 迪特·哈勒沃登",
+      "area": "法国",
+      "genre": "动画",
+      "episodes": "",
+      "desc": "萌激动物荒岛战爆笑来袭"
+    },
+    {
+      "title": "马腾你别走",
+      "year": "2025",
+      "cid": "mzc00200lge9t1b",
+      "actors": "林更新 李幼斌 宋茜 王彦霖 李雪琴 陈哈琳 冯雷 潘斌龙",
+      "area": "内地",
+      "genre": "喜剧",
+      "episodes": "",
+      "desc": "李幼斌林更新合作首秀"
+    },
+    {
+      "title": "夜店诡谈",
+      "year": "2012",
+      "cid": "o76hex60h06tgni",
+      "actors": "范逸臣 周秀娜 黄义达 邓家佳 戚玉武 徐洁儿",
+      "area": "内地",
+      "genre": "惊悚",
+      "episodes": "91",
+      "desc": "诡影闪动凶气逼人"
+    },
+    {
+      "title": "沼泽深处的女孩",
+      "year": "2022",
+      "cid": "mzc002005z73ron",
+      "actors": "黛西·埃德加-琼斯 泰勒·约翰·史密斯 哈里斯·迪金森 大卫·斯特雷泽恩 迈克尔·凯悦",
+      "area": "美国",
+      "genre": "爱情",
+      "episodes": "",
+      "desc": "沼泽女孩深陷罪案迷雾"
+    },
+    {
+      "title": "怪兽之瞳",
+      "year": "2007",
+      "cid": "aob4q0nuy90mldx",
+      "actors": "亚历桑德拉·卡斯蒂略 沙龙·巴杰 詹姆斯·范德比克 戴娜·莱托尔德",
+      "area": "加拿大",
+      "genre": "科幻",
+      "episodes": "",
+      "desc": "吃人鱿鱼够刺激"
+    },
+    {
+      "title": "洛阳桥",
+      "year": "1982",
+      "cid": "y3c71trc34bq917",
+      "actors": "曾广兰 韩培玲 马兰 王雪景",
+      "area": "内地",
+      "genre": "戏曲",
+      "episodes": "89",
+      "desc": "蔡襄惠民得神助 七年艰辛终建桥"
+    },
+    {
+      "title": "无主之地",
+      "year": "2016",
+      "cid": "k4bzplzkoylssy1",
+      "actors": "陈韦然 迟漠寒 高梓刚",
+      "area": "内地",
+      "genre": "动作",
+      "episodes": "64",
+      "desc": "第8区的秩序"
+    },
+    {
+      "title": "蜜蜂总动员",
+      "year": "2007",
+      "cid": "0yit784v3u6k93t",
+      "actors": "",
+      "area": "美国",
+      "genre": "动画",
+      "episodes": "87",
+      "desc": "贫嘴小蜜蜂的幸福生活"
+    },
+    {
+      "title": "挽救计划",
+      "year": "2026",
+      "cid": "mzc00200vs8995d",
+      "actors": "瑞恩·高斯林 桑德拉·惠勒 詹姆斯·奥尔蒂斯 肯·兰格 米拉娜·薇恩翠",
+      "area": "美国",
+      "genre": "科幻",
+      "episodes": "",
+      "desc": "高司令太空邂逅外星萌友"
+    },
+    {
+      "title": "老夫子之小水虎传奇",
+      "year": "2011",
+      "cid": "gir1pjjpcoufjtc",
+      "actors": "",
+      "area": "中国香港",
+      "genre": "动画",
+      "episodes": "90",
+      "desc": "三地明星齐助阵"
+    },
+    {
+      "title": "入侵华尔街",
+      "year": "2013",
+      "cid": "oe021vlmjtu2fji",
+      "actors": "多米尼克·珀塞尔 艾琳·卡普拉克 爱德华·弗朗",
+      "area": "加拿大",
+      "genre": "犯罪",
+      "episodes": "",
+      "desc": "金融危机下暴走的男青年"
+    },
+    {
+      "title": "我老婆未满十八岁",
+      "year": "2002",
+      "cid": "wbdljyq9a1hz7x7",
+      "actors": "郑伊健 蔡卓妍 车婉婉 廖碧儿 邓健泓",
+      "area": "中国香港",
+      "genre": "喜剧",
+      "episodes": "0",
+      "desc": "老夫少妻先婚后爱"
+    },
+    {
+      "title": "致命请柬",
+      "year": "2011",
+      "cid": "nn5ydvujnq0ptak",
+      "actors": "张达明 焦婷 胡龄萌",
+      "area": "内地",
+      "genre": "悬疑",
+      "episodes": "90",
+      "desc": "银幕版杀人游戏"
+    },
+    {
+      "title": "我这一辈子",
+      "year": "1950",
+      "cid": "884r21chbu2d6hc",
+      "actors": "石挥 魏鹤龄 崔超明 沈扬",
+      "area": "内地",
+      "genre": "历史",
+      "episodes": "109",
+      "desc": "老舍同名原著改编电影"
+    },
+    {
+      "title": "香椿",
+      "year": "2016",
+      "cid": "4nvo1xnoku1pja4",
+      "actors": "冯雪 秋枫 魏潇霞 冯艺",
+      "area": "内地",
+      "genre": "剧情",
+      "episodes": "66",
+      "desc": "养父也能父爱如山"
+    },
+    {
+      "title": "斯佳丽",
+      "year": "1994",
+      "cid": "3jyar3jfdyuhut0",
+      "actors": "琼妮·威利 提摩西·道尔顿 肖恩·宾 安娜贝丝·吉什",
+      "area": "法国",
+      "genre": "爱情",
+      "episodes": "",
+      "desc": "无法超越的乱世佳人"
+    },
+    {
+      "title": "第二次爱情",
+      "year": "2007",
+      "cid": "36e8a1zsz0f2x5k",
+      "actors": "维拉·法梅加 河正宇 大卫·李·麦金尼斯 亚历克斯·曼奈特 海缇安·朴",
+      "area": "韩国",
+      "genre": "剧情",
+      "episodes": "101",
+      "desc": "让人冲昏头脑的爱情"
+    },
+    {
+      "title": "遥远的街区",
+      "year": "2010",
+      "cid": "6npbka7zstthctt",
+      "actors": "帕斯卡尔·格雷戈里 乔纳森·扎凯 亚历山德拉·玛丽亚·拉娜 利奥·勒格朗 皮埃尔-路易·贝莱",
+      "area": "比利时",
+      "genre": "奇幻",
+      "episodes": "",
+      "desc": "穿越时空，揭开父亲的秘密"
+    },
+    {
+      "title": "宝贝快跑",
+      "year": "2014",
+      "cid": "14grit9kf7mcpim",
+      "actors": "温思年 赖芊合 李大宝 贾峰 邱礼涵",
+      "area": "内地",
+      "genre": "公益",
+      "episodes": "89",
+      "desc": "被拐儿童机智逃脱"
+    },
+    {
+      "title": "兔子洞",
+      "year": "2010",
+      "cid": "ntbxm68ahh18nn9",
+      "actors": "妮可·基德曼 阿伦·艾克哈特 迈尔斯·特勒 吴珊卓 黛安·韦斯特",
+      "area": "美国",
+      "genre": "家庭",
+      "episodes": "92",
+      "desc": "妮可基德曼触心之作"
+    },
+    {
+      "title": "八戒降妖",
+      "year": "2016",
+      "cid": "k36sx852y7fcwue",
+      "actors": "韩飞 张艺宣",
+      "area": "内地",
+      "genre": "冒险",
+      "episodes": "62",
+      "desc": "八戒雄起要正名！"
+    },
+    {
+      "title": "十诫下",
+      "year": "2006",
+      "cid": "sg5nydeoxrkvnh5",
+      "actors": "纳威恩·安德利维斯 Ashley Artus 克莱尔·布鲁姆 Silas Carson 皮特·格威瑟",
+      "area": "美国",
+      "genre": "历史",
+      "episodes": "88",
+      "desc": "神的指引为自由"
+    },
+    {
+      "title": "初三那年",
+      "year": "2016",
+      "cid": "2rprzt5xivo6mn1",
+      "actors": "陈亦天 张东 李欣芳",
+      "area": "内地",
+      "genre": "喜剧",
+      "episodes": "64",
+      "desc": "强势CP演绎无悔青春"
+    },
+    {
+      "title": "喜欢上“欠欠”的你",
+      "year": "2026",
+      "cid": "mzc00200riizfl3",
+      "actors": "秦霄贤 王影璐 陈昊明 西门飘飘 海清 马天宇 张天爱 范明",
+      "area": "内地",
+      "genre": "爱情",
+      "episodes": "",
+      "desc": "秦霄贤王影璐现实纯爱"
+    },
+    {
+      "title": "一路前行",
+      "year": "2023",
+      "cid": "mzc00200k1se6a8",
+      "actors": "魏至强 杨智弈 黄集光 黄立业 童若成 苏爱婷 张智成 伍昕宇",
+      "area": "内地",
+      "genre": "剧情",
+      "episodes": "",
+      "desc": "致敬先烈！传承红色中国心"
+    },
+    {
+      "title": "远大前程",
+      "year": "1998",
+      "cid": "x9jxsn3z8gxt96p",
+      "actors": "伊桑·霍克 格温妮斯·帕特洛 罗伯特·德尼罗 汉克·阿扎利亚 克里斯·库珀",
+      "area": "美国",
+      "genre": "爱情",
+      "episodes": "111",
+      "desc": "富家女玩弄庄园穷小子"
+    },
+    {
+      "title": "四喜临门",
+      "year": "1997",
+      "cid": "zv4xydssesp0zcj",
+      "actors": "张涵晰 高强 牛翠敏",
+      "area": "内地",
+      "genre": "喜剧",
+      "episodes": "93",
+      "desc": "不仅仅是双喜临门"
+    },
+    {
+      "title": "复仇之旅",
+      "year": "1980",
+      "cid": "5ucaxelac8rnzdm",
+      "actors": "法比奥·泰斯蒂 艾格斯蒂娜·贝利 Jorge Rivero",
+      "area": "意大利",
+      "genre": "冒险",
+      "episodes": "",
+      "desc": "农场主的复仇之旅"
+    },
+    {
+      "title": "灵异存在",
+      "year": "2014",
+      "cid": "olsi48r0e201wn1",
+      "actors": "多拉·马迪森·布鲁格 布莱恩·斯蒂尔 丹尼丝·威廉姆森 Madison Burge",
+      "area": "美国",
+      "genre": "恐怖",
+      "episodes": "80",
+      "desc": "度假撞见灵异事件"
+    },
+    {
+      "title": "晚餐",
+      "year": "2014",
+      "cid": "2z73mnra31mv0jx",
+      "actors": "洪基俊 朴仁秀",
+      "area": "韩国",
+      "genre": "家庭",
+      "episodes": "",
+      "desc": "给你还原真实的韩国底层人民"
+    },
+    {
+      "title": "彩虹照耀",
+      "year": "2009",
+      "cid": "s7cxn668dpujt0z",
+      "actors": "约翰·贝尔 康妮·尼尔森 艾丹·奎因 杰克·格里森",
+      "area": "加拿大",
+      "genre": "家庭",
+      "episodes": "101",
+      "desc": "温情女子照料内向男孩"
+    },
+    {
+      "title": "一江春水向东流",
+      "year": "1947",
+      "cid": "4u3kkcauqd23325",
+      "actors": "白杨 陶金 舒绣文 上官云珠",
+      "area": "内地",
+      "genre": "剧情",
+      "episodes": "192",
+      "desc": "战争年代里的八年离乱"
+    },
+    {
+      "title": "擦枪走火",
+      "year": "2015",
+      "cid": "j4zcjgyvvncnay0",
+      "actors": "Orson Ossman",
+      "area": "美国",
+      "genre": "动作",
+      "episodes": "",
+      "desc": "一个男人亡命天涯"
+    },
+    {
+      "title": "海狼",
+      "year": "2008",
+      "cid": "z14448nhhn7g8er",
+      "actors": "托马斯·克莱舒曼 皮特拉·施密德·沙勒 亚历山大·赫伯 赫宁·鲍姆 文森兹·凯佛",
+      "area": "德国",
+      "genre": "冒险",
+      "episodes": "90",
+      "desc": "航海世界无情法则"
+    },
+    {
+      "title": "人间·小团圆",
+      "year": "2014",
+      "cid": "hzq6u3x6kbrv0q8",
+      "actors": "古天乐 曾志伟 杨千嬅 梁咏琪 吴孟达 吴家丽",
+      "area": "中国香港",
+      "genre": "家庭",
+      "episodes": "91",
+      "desc": "每个大咖都有一个秘密"
+    },
+    {
+      "title": "完美武器",
+      "year": "2016",
+      "cid": "5xs27jc9cec24pa",
+      "actors": "萨沙·杰克逊 史蒂文·席格 约翰尼·梅辛纳 理查德·泰森",
+      "area": "瑞典",
+      "genre": "科幻",
+      "episodes": "",
+      "desc": "谁是真正的敌人？"
+    },
+    {
+      "title": "埃及艳后",
+      "year": "1963",
+      "cid": "p22ybj47un7ae21",
+      "actors": "伊丽莎白·泰勒 理查德·伯顿 雷克斯·哈里森 休姆·克罗宁",
+      "area": "瑞士",
+      "genre": "传记",
+      "episodes": "234",
+      "desc": "一代艳后的阴谋与爱情"
+    },
+    {
+      "title": "火拼",
+      "year": "2026",
+      "cid": "mzc00200gf6o0fp",
+      "actors": "方中信 吕良伟 安志杰 钱嘉乐 张继聪 陈家乐 陈国邦 沈震轩 张文杰 马思惠",
+      "area": "中国香港",
+      "genre": "动作",
+      "episodes": "",
+      "desc": "香港型男集结火力全开"
+    },
+    {
+      "title": "粮食",
+      "year": "1959",
+      "cid": "1qqyqh1gq9u61lo",
+      "actors": "张平 秦汉 葛存壮 安震江",
+      "area": "内地",
+      "genre": "剧情",
+      "episodes": "94",
+      "desc": "村长巧计制服抢粮鬼子"
+    },
+    {
+      "title": "两对半",
+      "year": "1986",
+      "cid": "7650ks0399mcenp",
+      "actors": "敖登高娃 谭幸",
+      "area": "内地",
+      "genre": "爱情",
+      "episodes": "84",
+      "desc": "有情人终成眷属"
+    },
+    {
+      "title": "环形使者",
+      "year": "2012",
+      "cid": "zu7kmm5lyikyk3c",
+      "actors": "约瑟夫·高登-莱维特 布鲁斯·威利斯 保罗·达诺 许晴 艾米莉·布朗特",
+      "area": "美国",
+      "genre": "科幻",
+      "episodes": "1",
+      "desc": "造梦高手变杀手"
+    },
+    {
+      "title": "血色清晨",
+      "year": "1992",
+      "cid": "3ykvtr5492x8b1z",
+      "actors": "赵君 胡亚捷 孔琳 巨兴茂 路辉",
+      "area": "内地",
+      "genre": "犯罪",
+      "episodes": "0",
+      "desc": "李少红经典之作"
+    },
+    {
+      "title": "大刀记",
+      "year": "1977",
+      "cid": "lzn3mv8j1jwd5k8",
+      "actors": "杨在葆 仲星火 陈述",
+      "area": "内地",
+      "genre": "剧情",
+      "episodes": "112",
+      "desc": "老戏骨仲星火和陈述经典作品"
+    },
+    {
+      "title": "绑架2",
+      "year": "2016",
+      "cid": "8qbjbvj58sltnna",
+      "actors": "赵依娜 刘裕龙 赵小七 张伟林",
+      "area": "内地",
+      "genre": "惊悚",
+      "episodes": "",
+      "desc": "绑架闹剧阴差阳错"
+    },
+    {
+      "title": "墨路",
+      "year": "2017",
+      "cid": "ik3cxulgov3ge7d",
+      "actors": "张宗敏 薛莉 陈叶玲 曹敏 段冉",
+      "area": "内地",
+      "genre": "悬疑",
+      "episodes": "",
+      "desc": "根据社会真实事件改编"
+    },
+    {
+      "title": "女人韵事",
+      "year": "1988",
+      "cid": "ad5apd65kv734po",
+      "actors": "伊莎贝尔·于佩尔 弗朗索瓦·克鲁塞 玛丽·特兰蒂尼昂 尼尔斯·塔维涅 洛丽塔·夏马",
+      "area": "法国",
+      "genre": "伦理",
+      "episodes": "104",
+      "desc": "威尼斯电影节最佳影片"
+    },
+    {
+      "title": "清款人",
+      "year": "2011",
+      "cid": "hsm7y0dnfvmr1op",
+      "actors": "维尼·琼斯 Azis Beyshinaliev Aitzhanov Berik Karlygash Mukhamed.. Michael Tokarev",
+      "area": "其它地区",
+      "genre": "动作",
+      "episodes": "99",
+      "desc": "保镖替兄复仇寻真凶"
+    },
+    {
+      "title": "急速杀机",
+      "year": "2010",
+      "cid": "ow0tm331mu0iblg",
+      "actors": "安德鲁·凯加 罗伯特·帕特里克",
+      "area": "美国",
+      "genre": "动作",
+      "episodes": "113",
+      "desc": "航空版的速度与激情"
+    },
+    {
+      "title": "开心超人",
+      "year": "2013",
+      "cid": "mlaqso4gj0igqgc",
+      "actors": "",
+      "area": "内地",
+      "genre": "动画",
+      "episodes": "2",
+      "desc": "开开心心做超人"
+    },
+    {
+      "title": "芳心别乡",
+      "year": "2003",
+      "cid": "6t64d50ey9j4rp0",
+      "actors": "尼利·马考尔 凡妮莎·英康塔达 吉安卡罗·吉安尼尼 尼诺·德安吉洛 桑德拉·米洛",
+      "area": "意大利",
+      "genre": "爱情",
+      "episodes": "107",
+      "desc": "爱情不过一场梦"
+    },
+    {
+      "title": "顶牛",
+      "year": "2021",
+      "cid": "mzc00200ev63oql",
+      "actors": "陈佩斯 陈大愚",
+      "area": "内地",
+      "genre": "短片",
+      "episodes": "",
+      "desc": "音乐父子彼此的热爱"
+    },
+    {
+      "title": "虎·破——电影《八佰》制作纪录",
+      "year": "2020",
+      "cid": "mzc00200xkxid9y",
+      "actors": "管虎 赵宁宇 林木 梁静 曹郁 朱文玖 张宥浩 欧豪 张俊一 张承 魏晨 张译 白恩 杜淳 姜武 王千源 李晨 余皑磊 郑恺 俞灏明",
+      "area": "内地",
+      "genre": "纪录片",
+      "episodes": "",
+      "desc": "管虎导演揭秘幕后制作！"
+    },
+    {
+      "title": "疾速追杀：芭蕾杀姬",
+      "year": "2025",
+      "cid": "mzc002008rcm0ok",
+      "actors": "安娜·德·阿玛斯 安杰丽卡·休斯顿 加布里埃尔·伯恩 兰斯·莱迪克 诺曼·瑞杜斯 伊恩·麦柯肖恩 基努·里维斯",
+      "area": "美国",
+      "genre": "动作",
+      "episodes": "",
+      "desc": "硬核动作美学掀银幕风暴"
+    },
+    {
+      "title": "航海王：狂热行动",
+      "year": "2019",
+      "cid": "mzc00200emmamia",
+      "actors": "",
+      "area": "日本",
+      "genre": "动画",
+      "episodes": "",
+      "desc": "全员集结赌上时代霸权"
+    },
+    {
+      "title": "哆啦A梦：大雄的绘画奇遇记",
+      "year": "2025",
+      "cid": "mzc00200llfmsmj",
+      "actors": "",
+      "area": "日本",
+      "genre": "动画",
+      "episodes": "",
+      "desc": "绘画冒险全新开启"
+    },
+    {
+      "title": "呼啸山庄",
+      "year": "2026",
+      "cid": "mzc00200jhyjw6f",
+      "actors": "玛格特·罗比 雅各布·艾洛蒂 周洪 艾莉森·奥利弗 沙扎德·拉蒂夫",
+      "area": "英国",
+      "genre": "爱情",
+      "episodes": "",
+      "desc": "极致美学重构爱恨史诗"
+    },
+    {
+      "title": "玛丽的复仇I",
+      "year": "2010",
+      "cid": "7g2ldebrrlijo1c",
+      "actors": "亚历桑德娜·内尔德尔 阿提拉·阿尔帕 亚历山大·贝叶尔",
+      "area": "德国",
+      "genre": "爱情",
+      "episodes": "121",
+      "desc": "贵族小姐沦为风尘女"
+    },
+    {
+      "title": "怦然星动",
+      "year": "2015",
+      "cid": "2ot92nkpkhcjd5j",
+      "actors": "杨幂 陈数 王耀庆 张云龙 迪丽热巴 金世佳",
+      "area": "内地",
+      "genre": "喜剧",
+      "episodes": "98",
+      "desc": "中国首部呈现娱乐圈纷繁影片"
+    },
+    {
+      "title": "竖锯惊魂1夜魔归来",
+      "year": "2017",
+      "cid": "xln0satnx0o3u5g",
+      "actors": "周文羽 李灵儿 赵国燕王",
+      "area": "内地",
+      "genre": "惊悚",
+      "episodes": "",
+      "desc": "悬疑烧脑的幕后真凶"
+    },
+    {
+      "title": "友军倒下",
+      "year": "2015",
+      "cid": "nh9cm46a6vh4jyg",
+      "actors": "希亚·拉博夫 凯特·玛拉 杰·科特尼 加里·奥德曼",
+      "area": "美国",
+      "genre": "战争",
+      "episodes": "",
+      "desc": "老兵不死！敬礼"
+    },
+    {
+      "title": "人性污点",
+      "year": "2003",
+      "cid": "44ss3613k80246i",
+      "actors": "安东尼·霍普金斯 妮可·基德曼 文特沃斯·米勒",
+      "area": "美国",
+      "genre": "爱情",
+      "episodes": "107",
+      "desc": "守护人生的秘密"
+    },
+    {
+      "title": "套利交易",
+      "year": "2012",
+      "cid": "auxecrqth9w4gnj",
+      "actors": "理查·基尔 蒂姆·罗斯 布里特·马灵 苏珊·萨兰登",
+      "area": "美国",
+      "genre": "惊悚",
+      "episodes": "",
+      "desc": "亿万富翁的暗箱操作"
+    },
+    {
+      "title": "与恐龙同行",
+      "year": "2013",
+      "cid": "42x9x33lueay91y",
+      "actors": "查理·罗 Angourie Rice",
+      "area": "英国",
+      "genre": "动画",
+      "episodes": "88",
+      "desc": "弱鸡三角龙逆袭白富美"
+    },
+    {
+      "title": "所罗门王的宝藏",
+      "year": "2004",
+      "cid": "4rg6uyjkrwtx44n",
+      "actors": "帕特里克·斯威兹 艾莉森·杜迪 Roy Marsden Nick Boraine 哈基姆·凯-卡西姆",
+      "area": "美国",
+      "genre": "冒险",
+      "episodes": "88",
+      "desc": "寻找宝藏的真相"
+    },
+    {
+      "title": "患难真情",
+      "year": "2002",
+      "cid": "s0ut9yfkyezuk85",
+      "actors": "卡兰",
+      "area": "印度",
+      "genre": "爱情",
+      "episodes": "",
+      "desc": "恐怖背景下的爱情故事"
+    },
+    {
+      "title": "虐面人之死灵面膜",
+      "year": "2014",
+      "cid": "h8z3kqofaskjiej",
+      "actors": "蒲巴甲 程媛媛 韩丹桐 舒耀宣",
+      "area": "内地",
+      "genre": "悬疑",
+      "episodes": "87",
+      "desc": "阴森老宅死灵显现"
+    },
+    {
+      "title": "纵横四海",
+      "year": "1991",
+      "cid": "x7dra43dggxthim",
+      "actors": "周润发 张国荣 钟楚红 朱江 曾江",
+      "area": "中国香港",
+      "genre": "喜剧",
+      "episodes": "109",
+      "desc": "周润发张国荣组神偷CP"
+    },
+    {
+      "title": "被偷走的那五年",
+      "year": "2013",
+      "cid": "t1mcf7yt9iq0fcx",
+      "actors": "白百何 张孝全 范玮琪",
+      "area": "内地",
+      "genre": "爱情",
+      "episodes": "112",
+      "desc": "白百何张孝全玩暧昧"
+    },
+    {
+      "title": "舒克贝塔之微缩人类",
+      "year": "2026",
+      "cid": "mzc00200lk0vtnh",
+      "actors": "",
+      "area": "内地",
+      "genre": "动画",
+      "episodes": "",
+      "desc": "郑渊洁IP改编电影"
+    },
+    {
+      "title": "蜡笔总动员",
+      "year": "2014",
+      "cid": "miqqap7ht8pzsu5",
+      "actors": "",
+      "area": "美国",
+      "genre": "动画",
+      "episodes": "72",
+      "desc": "蜡笔们的奇妙大冒险"
+    },
+    {
+      "title": "环球突击队",
+      "year": "2010",
+      "cid": "e3ygpepaxqthrj3",
+      "actors": "瑞利·史密斯 薇拉·福特 巴里·柯宾 克里斯蒂安·凯恩",
+      "area": "美国",
+      "genre": "惊悚",
+      "episodes": "83",
+      "desc": "伊拉克战场老兵追寻真相"
+    },
+    {
+      "title": "家",
+      "year": "1957",
+      "cid": "qb10wc31xsyhxi4",
+      "actors": "孙道临 张瑞芳 魏鹤龄 黄宗英",
+      "area": "内地",
+      "genre": "剧情",
+      "episodes": "121",
+      "desc": "巴金同名小说改编"
+    },
+    {
+      "title": "绝密任务",
+      "year": "2025",
+      "cid": "mzc00200jwfop1n",
+      "actors": "卢靖姗 余文乐 蒋璐霞 屈菁菁 于文文",
+      "area": "内地",
+      "genre": "战争",
+      "episodes": "",
+      "desc": "卢靖姗于文文高能集结以战止"
+    },
+    {
+      "title": "里约大冒险2",
+      "year": "2014",
+      "cid": "vatxsyi3vgs4ul0",
+      "actors": "",
+      "area": "美国",
+      "genre": "动画",
+      "episodes": "",
+      "desc": "来一次南美热辣之旅"
+    },
+    {
+      "title": "完美嫁衣",
+      "year": "2010",
+      "cid": "w0l3x79edh31vqx",
+      "actors": "杨千嬅 周秀娜 徐子珊 毛舜筠",
+      "area": "中国香港",
+      "genre": "爱情",
+      "episodes": "0",
+      "desc": "杨千嬅牵手林峰姐弟恋"
+    }
+  ]
+}
